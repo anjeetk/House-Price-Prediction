@@ -45,7 +45,7 @@ flat,puri diplomatic greens,sector 111,2.58,11727.0,2200.0,Super Built up area 2
 flat,la vida by tata housing,sector 113,3.0,14286.0,2100.0,Super Built up area 2691(250 sq.m.)Built Up area: 2460 sq.ft. (228.54 sq.m.)Carpet area: 2100 sq.ft. (195.1 sq.m.),3.0,3.0,3+,3.0,East,Relatively New,2691.0,2460.0,2100.0,0.0,1.0,0.0,0.0,0.0,0.0,167.0,700.0
 house,ganpati heights apartment,sector 13,1.25,12077.0,1035.0,Plot area 115(7692.86 sq.m.),3.0,6.0,2,3.0,South-East,Old Property,,115.0,,0.0,0.0,0.0,0.0,1.0,0.0,7.0,345.0
 flat,smart world orchard,sector 61,2.1,13752.0,1527.0,Super Built up area 1549(143.91 sq.m.)Carpet area: 1500 sq.ft. (139.35 sq.m.),3.0,2.0,3,3.0,South,Under Construction,1549.0,,1500.0,0.0,0.0,0.0,0.0,0.0,0.0,146.0,509.0
-flat,tata gurgaon gateway,sector 113,2.45,10788.0,2271.0,Super Built up area 2225(206.71 sq.m.),3.0,3.0,3,8.0,North,Relatively New,2225.0,,,0.0,0.0,0.0,0.0,0.0,0.0,110.0,757.0
+flat,tata Gurugram gateway,sector 113,2.45,10788.0,2271.0,Super Built up area 2225(206.71 sq.m.),3.0,3.0,3,8.0,North,Relatively New,2225.0,,,0.0,0.0,0.0,0.0,0.0,0.0,110.0,757.0
 flat,tulip violet,sector 69,1.38,8973.0,1538.0,Carpet area: 1538 (142.88 sq.m.),3.0,3.0,1,12.0,West,Relatively New,,,1538.0,0.0,0.0,0.0,0.0,0.0,0.0,174.0,512.6666666666666
 flat,smart world gems,sector 89,1.71,12000.0,1425.0,Built Up area: 1423 (132.2 sq.m.),3.0,2.0,0,3.0,,Undefined,,1423.0,,0.0,0.0,0.0,0.0,0.0,0.0,45.0,475.0
 flat,ireo the corridors,sector 67a,1.85,9531.0,1941.0,Built Up area: 1941 (180.32 sq.m.),3.0,4.0,3,4.0,East,New Property,,1941.0,,1.0,0.0,1.0,0.0,0.0,1.0,150.0,647.0
@@ -59,7 +59,7 @@ flat,huda housing board society,sector 52,0.45,9740.0,462.0,Carpet area: 461.77 
 flat,shri balaji apartment,sector 12,0.35,4037.0,867.0,Super Built up area 867(80.55 sq.m.)Built Up area: 737 sq.ft. (68.47 sq.m.)Carpet area: 650 sq.ft. (60.39 sq.m.),2.0,2.0,1,1.0,North,Moderately Old,867.0,737.0,650.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,433.5
 house,independent,sector 43,5.75,23663.0,2430.0,Plot area 270(225.75 sq.m.)Built Up area: 260 sq.yards (217.39 sq.m.)Carpet area: 220 sq.yards (183.95 sq.m.),4.0,4.0,2,4.0,North,Under Construction,,260.0,220.0,0.0,1.0,1.0,0.0,0.0,2.0,153.0,607.5
 flat,ss the leaf,sector 85,1.12,6452.0,1736.0,Super Built up area 1741(161.74 sq.m.)Built Up area: 1485 sq.ft. (137.96 sq.m.)Carpet area: 1335 sq.ft. (124.03 sq.m.),2.0,2.0,3,10.0,East,Relatively New,1741.0,1485.0,1335.0,0.0,0.0,0.0,0.0,1.0,0.0,49.0,868.0
-flat,avl 36 gurgaon,sector 36,0.75,7500.0,1000.0,Super Built up area 1000(92.9 sq.m.)Carpet area: 727 sq.ft. (67.54 sq.m.),2.0,2.0,2,5.0,North-East,Relatively New,1000.0,,727.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,500.0
+flat,avl 36 Gurugram,sector 36,0.75,7500.0,1000.0,Super Built up area 1000(92.9 sq.m.)Carpet area: 727 sq.ft. (67.54 sq.m.),2.0,2.0,2,5.0,North-East,Relatively New,1000.0,,727.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,500.0
 flat,adani aangan galleria,sector 89,0.25,5000.0,500.0,Super Built up area 500(46.45 sq.m.)Built Up area: 430 sq.ft. (39.95 sq.m.)Carpet area: 410 sq.ft. (38.09 sq.m.),1.0,1.0,1,6.0,,New Property,500.0,430.0,410.0,0.0,0.0,0.0,0.0,0.0,0.0,74.0,500.0
 house,independent,sector 4,0.67,8557.0,783.0,Plot area 87(72.74 sq.m.),3.0,2.0,1,1.0,South,Moderately Old,,783.0,,0.0,0.0,0.0,1.0,1.0,0.0,19.0,261.0
 flat,bestech park view residency,sector 2,0.56,8629.0,649.0,Carpet area: 651 (60.48 sq.m.),1.0,1.0,2,6.0,South,Moderately Old,,,651.0,0.0,0.0,0.0,0.0,0.0,0.0,77.0,649.0
@@ -83,7 +83,7 @@ flat,godrej oasis,sector 88a,1.0,6897.0,1450.0,Carpet area: 1450 (134.71 sq.m.),
 flat,eldeco accolade,sohna road,1.3,7424.0,1751.0,Super Built up area 1751(162.67 sq.m.)Carpet area: 1290 sq.ft. (119.84 sq.m.),3.0,3.0,3+,10.0,East,Relatively New,1751.0,,1290.0,0.0,0.0,0.0,0.0,0.0,0.0,49.0,583.6666666666666
 flat,orris carnation residency,sector 85,0.9,6429.0,1400.0,Super Built up area 1485(137.96 sq.m.)Built Up area: 1402 sq.ft. (130.25 sq.m.)Carpet area: 1400 sq.ft. (130.06 sq.m.),3.0,3.0,2,12.0,,Relatively New,1485.0,1402.0,1400.0,0.0,0.0,0.0,0.0,0.0,0.0,120.0,466.6666666666667
 house,independent,sector 105,0.5,5556.0,900.0,Built Up area: 100 (9.29 sq.m.),2.0,2.0,0,1.0,,Undefined,,100.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,450.0
-flat,vatika gurgaon,sector 83,1.15,5808.0,1980.0,Super Built up area 1980(183.95 sq.m.)Built Up area: 1350 sq.ft. (125.42 sq.m.)Carpet area: 1308 sq.ft. (121.52 sq.m.),3.0,3.0,2,3.0,South,Relatively New,1980.0,1350.0,1308.0,1.0,1.0,1.0,1.0,0.0,1.0,165.0,660.0
+flat,vatika Gurugram,sector 83,1.15,5808.0,1980.0,Super Built up area 1980(183.95 sq.m.)Built Up area: 1350 sq.ft. (125.42 sq.m.)Carpet area: 1308 sq.ft. (121.52 sq.m.),3.0,3.0,2,3.0,South,Relatively New,1980.0,1350.0,1308.0,1.0,1.0,1.0,1.0,0.0,1.0,165.0,660.0
 flat,tulip violet,sector 69,1.36,8619.0,1578.0,Super Built up area 1578(146.6 sq.m.),3.0,3.0,2,12.0,West,Relatively New,1578.0,,,0.0,0.0,0.0,1.0,0.0,1.0,49.0,526.0
 flat,shapoorji pallonji joyville gurugram,sector 102,1.4,11667.0,1200.0,Super Built up area 1368(127.09 sq.m.)Carpet area: 1200 sq.ft. (111.48 sq.m.),2.0,2.0,3,0.0,North,Relatively New,1368.0,,1200.0,0.0,0.0,0.0,0.0,0.0,0.0,80.0,600.0
 house,independent,sector 55,2.8,18667.0,1500.0,Built Up area: 1500 (139.35 sq.m.),4.0,4.0,0,2.0,,Undefined,,1500.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,375.0
@@ -103,7 +103,7 @@ flat,umang monsoon breeze,sector 78,0.7,5719.0,1224.0,Built Up area: 1224 (113.7
 flat,rof ananda,sector 95,0.32,5829.0,549.0,Carpet area: 549.16 (51.02 sq.m.),2.0,2.0,1,9.0,North,Relatively New,,,549.174178,0.0,0.0,0.0,1.0,0.0,1.0,71.0,274.5
 flat,the crew bos chs manesar,manesar,0.85,3696.0,2300.0,Carpet area: 2300 (213.68 sq.m.),3.0,3.0,2,2.0,East,Moderately Old,,,2300.0,0.0,0.0,0.0,0.0,0.0,0.0,44.0,766.6666666666666
 flat,spaze privvy the address,sector 93,1.25,5700.0,2193.0,Built Up area: 2105 (195.56 sq.m.)Carpet area: 1700 sq.ft. (157.94 sq.m.),4.0,4.0,3,16.0,,Relatively New,,2105.0,1700.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,548.25
-flat,"m m residency, krishna colony, gurgaon",sector 7,0.54,5889.0,917.0,Carpet area: 900 (83.61 sq.m.),2.0,2.0,1,3.0,East,Relatively New,,,900.0,0.0,0.0,0.0,0.0,0.0,0.0,70.0,458.5
+flat,"m m residency, krishna colony, Gurugram",sector 7,0.54,5889.0,917.0,Carpet area: 900 (83.61 sq.m.),2.0,2.0,1,3.0,East,Relatively New,,,900.0,0.0,0.0,0.0,0.0,0.0,0.0,70.0,458.5
 flat,chd avenue,sector 71,0.79,6594.0,1198.0,Super Built up area 1198(111.3 sq.m.),2.0,2.0,2,8.0,South-East,Relatively New,1198.0,,,0.0,0.0,0.0,0.0,1.0,0.0,0.0,599.0
 house,independent,sector 25,10.0,37037.0,2700.0,Plot area 2700(250.84 sq.m.)Built Up area: 9500 sq.ft. (882.58 sq.m.)Carpet area: 9000 sq.ft. (836.13 sq.m.),5.0,5.0,3+,3.0,East,Moderately Old,,9500.0,9000.0,0.0,1.0,0.0,1.0,0.0,2.0,29.0,540.0
 flat,park royal apartment,sector 56,1.71,7600.0,2250.0,Built Up area: 2251 (209.12 sq.m.)Carpet area: 2250 sq.ft. (209.03 sq.m.),3.0,3.0,3+,5.0,North-East,Moderately Old,,2251.0,2250.0,0.0,1.0,0.0,0.0,0.0,1.0,118.0,750.0
@@ -147,7 +147,7 @@ house,independent,sector 51,2.25,2778.0,8100.0,Plot area 100(83.61 sq.m.),6.0,3.
 house,unitech uniworld resorts,sector 33,11.0,26667.0,4125.0,Plot area 500(418.06 sq.m.),5.0,6.0,3,3.0,,New Property,,500.0,,1.0,1.0,0.0,0.0,0.0,0.0,58.0,825.0
 flat,shapoorji pallonji joyville gurugram,sector 102,1.41,10307.0,1368.0,Super Built up area 1368(127.09 sq.m.),2.0,2.0,3,0.0,North-East,Relatively New,1368.0,,,0.0,0.0,0.0,0.0,1.0,0.0,49.0,684.0
 flat,mapsko mount ville,sector 79,1.65,9091.0,1815.0,Built Up area: 1815 (168.62 sq.m.),3.0,3.0,0,12.0,,Undefined,,1815.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,605.0
-flat,vatika gurgaon,sector 83,0.98,8167.0,1200.0,Super Built up area 1445(134.24 sq.m.)Built Up area: 1300 sq.ft. (120.77 sq.m.)Carpet area: 1200 sq.ft. (111.48 sq.m.),2.0,2.0,3,5.0,South,Relatively New,1445.0,1300.0,1200.0,0.0,0.0,0.0,0.0,0.0,1.0,96.0,600.0
+flat,vatika Gurugram,sector 83,0.98,8167.0,1200.0,Super Built up area 1445(134.24 sq.m.)Built Up area: 1300 sq.ft. (120.77 sq.m.)Carpet area: 1200 sq.ft. (111.48 sq.m.),2.0,2.0,3,5.0,South,Relatively New,1445.0,1300.0,1200.0,0.0,0.0,0.0,0.0,0.0,1.0,96.0,600.0
 flat,essel towers,sector 14,2.2,12500.0,1760.0,Carpet area: 1760 (163.51 sq.m.),3.0,4.0,3+,3.0,North-West,Undefined,,,1760.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,586.6666666666666
 flat,dlf the skycourt,sector 86,1.5,7776.0,1929.0,Super Built up area 1929(179.21 sq.m.)Built Up area: 1550 sq.ft. (144 sq.m.)Carpet area: 1330 sq.ft. (123.56 sq.m.),3.0,3.0,1,15.0,South-East,Relatively New,1929.0,1550.0,1330.0,0.0,0.0,0.0,0.0,0.0,0.0,159.0,643.0
 house,satya the hermitage,sector 103,4.35,13501.0,3222.0,Plot area 358(299.33 sq.m.),4.0,4.0,3+,2.0,North,Relatively New,,3222.0,,1.0,1.0,1.0,1.0,0.0,1.0,138.0,805.5
@@ -194,7 +194,7 @@ flat,tulsiani easy in homes,sohna road,0.4,6723.0,595.0,Carpet area: 595 (55.28 
 flat,hsiidc sidco aravali,manesar,0.86,3323.0,2588.0,Super Built up area 2588(240.43 sq.m.)Built Up area: 1900 sq.ft. (176.52 sq.m.)Carpet area: 1877 sq.ft. (174.38 sq.m.),3.0,3.0,3+,3.0,South,Moderately Old,2588.0,1900.0,1877.0,0.0,1.0,0.0,0.0,0.0,0.0,81.0,862.6666666666666
 flat,shree vardhman victoria,sector 70,1.65,8462.0,1950.0,Carpet area: 1950 (181.16 sq.m.),3.0,3.0,2,6.0,North-West,Relatively New,,,1950.0,1.0,0.0,0.0,0.0,0.0,0.0,72.0,650.0
 flat,conscient elevate,sector 59,3.78,16499.0,2291.0,Carpet area: 2295 (213.21 sq.m.),3.0,3.0,3,3.0,,Under Construction,,,2295.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0,763.6666666666666
-flat,emaar gurgaon greens,sector 102,1.42,8606.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,7.0,East,Relatively New,1650.0,,1022.58,0.0,1.0,0.0,0.0,0.0,0.0,128.0,550.0
+flat,emaar Gurugram greens,sector 102,1.42,8606.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,7.0,East,Relatively New,1650.0,,1022.58,0.0,1.0,0.0,0.0,0.0,0.0,128.0,550.0
 flat,ats tourmaline,sector 109,1.4,8000.0,1750.0,Super Built up area 1750(162.58 sq.m.)Built Up area: 1466 sq.ft. (136.2 sq.m.)Carpet area: 1350 sq.ft. (125.42 sq.m.),3.0,3.0,3+,8.0,North-East,Relatively New,1750.0,1466.0,1350.0,0.0,0.0,1.0,0.0,0.0,0.0,119.0,583.3333333333334
 flat,ramson kshitij sec-95 gurugram,sector 95,0.27,2700.0,1000.0,Super Built up area 1000(92.9 sq.m.)Carpet area: 550 sq.ft. (51.1 sq.m.),2.0,2.0,0,1.0,West,Undefined,1000.0,,550.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,500.0
 flat,pyramid urban homes 2,sector 86,0.42,8485.0,495.0,Carpet area: 501 (46.54 sq.m.),2.0,2.0,1,2.0,North-East,New Property,,,501.0,1.0,1.0,0.0,1.0,1.0,0.0,84.0,247.5
@@ -225,7 +225,7 @@ flat,indiabulls enigma,sector 110,4.0,9850.0,4061.0,Built Up area: 3350 (311.23 
 flat,global height,sohna road,0.45,6338.0,710.0,Carpet area: 710 (65.96 sq.m.),2.0,2.0,2,6.0,East,Relatively New,,,710.0,0.0,0.0,0.0,0.0,0.0,2.0,49.0,355.0
 flat,spectrum centre,sector 82a,0.62,9538.0,650.0,Built Up area: 650 (60.39 sq.m.),1.0,1.0,0,6.0,,Undefined,,650.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,650.0
 flat,dlf new town heights,sector 90,1.15,5959.0,1930.0,Super Built up area 1930(179.3 sq.m.),3.0,3.0,3+,9.0,North-West,Relatively New,1930.0,,,0.0,1.0,0.0,1.0,0.0,0.0,88.0,643.3333333333334
-flat,vatika gurgaon,sector 83,1.4,6629.0,2112.0,Super Built up area 1735(161.19 sq.m.),3.0,3.0,2,7.0,,Relatively New,1735.0,,,0.0,0.0,0.0,0.0,0.0,1.0,74.0,704.0
+flat,vatika Gurugram,sector 83,1.4,6629.0,2112.0,Super Built up area 1735(161.19 sq.m.),3.0,3.0,2,7.0,,Relatively New,1735.0,,,0.0,0.0,0.0,0.0,0.0,1.0,74.0,704.0
 house,independent,sector 57,3.15,20349.0,1548.0,Plot area 172(143.81 sq.m.),5.0,4.0,3+,2.0,North-East,Moderately Old,,1548.0,,0.0,0.0,1.0,0.0,0.0,1.0,60.0,309.6
 flat,chd avenue,sector 71,0.98,6049.0,1620.0,Super Built up area 1620(150.5 sq.m.),3.0,3.0,3,0.0,South-East,Moderately Old,1620.0,,,1.0,0.0,0.0,0.0,0.0,0.0,65.0,540.0
 flat,shapoorji pallonji joyville gurugram,sector 102,1.75,15514.0,1128.0,Super Built up area 1852(172.06 sq.m.)Carpet area: 1128 sq.ft. (104.79 sq.m.),3.0,3.0,3+,1.0,East,Relatively New,1852.0,,1128.0,0.0,0.0,0.0,0.0,0.0,0.0,49.0,376.0
@@ -255,7 +255,7 @@ flat,dlf the arbour,sector 63,7.8,19747.0,3950.0,Built Up area: 3950 (366.97 sq.
 flat,bestech park view residency,sector 2,1.5,7825.0,1917.0,Super Built up area 1920(178.37 sq.m.),3.0,4.0,3+,10.0,North-East,Moderately Old,1920.0,,,0.0,1.0,0.0,0.0,0.0,0.0,93.0,639.0
 house,ninex city,sector 76,1.75,6250.0,2800.0,Carpet area: 2800 (260.13 sq.m.),4.0,4.0,0,14.0,,Undefined,,,2800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,700.0
 flat,suposhaa smartworld orchard,sector 61,2.17,14000.0,1550.0,Carpet area: 1549 (143.91 sq.m.),3.0,3.0,3,1.0,,Under Construction,,,1549.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,516.6666666666666
-flat,emaar gurgaon greens,sector 102,1.35,8182.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,9.0,North-East,Relatively New,1650.0,,1022.58,0.0,1.0,0.0,0.0,0.0,0.0,100.0,550.0
+flat,emaar Gurugram greens,sector 102,1.35,8182.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,9.0,North-East,Relatively New,1650.0,,1022.58,0.0,1.0,0.0,0.0,0.0,0.0,100.0,550.0
 flat,paras dews,sector 106,1.05,8537.0,1230.0,Super Built up area 1760(163.51 sq.m.)Built Up area: 1345 sq.ft. (124.95 sq.m.)Carpet area: 1230 sq.ft. (114.27 sq.m.),3.0,4.0,3+,10.0,North-East,Relatively New,1760.0,1345.0,1230.0,0.0,1.0,0.0,0.0,0.0,0.0,174.0,410.0
 flat,unitech heritage city,sector 14,4.26,13108.0,3250.0,Built Up area: 3250 (301.93 sq.m.),4.0,4.0,0,9.0,,Undefined,,3250.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,812.5
 flat,signature the roselia,sector 95,0.41,6193.0,662.0,Built Up area: 670 (62.25 sq.m.)Carpet area: 569.25 sq.ft. (52.89 sq.m.),2.0,2.0,2,12.0,North,New Property,,670.0,569.25,1.0,0.0,0.0,0.0,0.0,1.0,90.0,331.0
@@ -334,17 +334,17 @@ flat,sbtl caladium,sector 109,1.6,6287.0,2545.0,Super Built up area 2545(236.44 
 flat,emaar palm heights,sector 77,1.75,11667.0,1500.0,Super Built up area 2025(188.13 sq.m.)Built Up area: 1900 sq.ft. (176.52 sq.m.)Carpet area: 1500 sq.ft. (139.35 sq.m.),3.0,3.0,3+,11.0,South-West,Relatively New,2025.0,1900.0,1500.0,0.0,1.0,0.0,0.0,0.0,0.0,94.0,500.0
 flat,sushant lok 1 builder floors,sector 43,2.5,12920.0,1935.0,Super Built up area 215(179.77 sq.m.),3.0,3.0,2,2.0,,New Property,215.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,645.0
 flat,ats triumph,sector 104,1.95,8515.0,2290.0,Carpet area: 2290 (212.75 sq.m.),3.0,3.0,3+,3.0,,New Property,,,2290.0,0.0,1.0,0.0,0.0,0.0,0.0,69.0,763.3333333333334
-flat,alpha corp gurgaonone,sector 84,2.2,7586.0,2900.0,Carpet area: 2900 (269.42 sq.m.),4.0,4.0,3,10.0,South,Relatively New,,,2900.0,0.0,1.0,0.0,0.0,0.0,0.0,21.0,725.0
+flat,alpha corp Gurugramone,sector 84,2.2,7586.0,2900.0,Carpet area: 2900 (269.42 sq.m.),4.0,4.0,3,10.0,South,Relatively New,,,2900.0,0.0,1.0,0.0,0.0,0.0,0.0,21.0,725.0
 house,independent,sector 45,8.5,26235.0,3240.0,Plot area 360(301.01 sq.m.),5.0,4.0,2,1.0,North-East,Moderately Old,,3240.0,,0.0,1.0,0.0,1.0,0.0,1.0,49.0,648.0
 flat,unitech vistas,sector 70,0.53,4801.0,1104.0,Super Built up area 1095(101.73 sq.m.),2.0,2.0,2,9.0,,Under Construction,1095.0,,,0.0,0.0,0.0,0.0,1.0,0.0,24.0,552.0
 flat,m3m sky lofts,sector 71,0.9,13177.0,683.0,Built Up area: 683 (63.45 sq.m.),1.0,1.0,0,6.0,,New Property,,683.0,,0.0,0.0,0.0,0.0,0.0,0.0,77.0,683.0
 flat,central park flower valley,sector 33,2.3,12778.0,1800.0,Carpet area: 1800 (167.23 sq.m.),4.0,4.0,3+,5.0,North-East,New Property,,,1800.0,0.0,1.0,0.0,1.0,0.0,0.0,42.0,450.0
-house,ashok vihar phase 3 gurgaon,sector 5,0.95,8879.0,1070.0,Plot area 1070(99.41 sq.m.),4.0,3.0,2,1.0,East,Old Property,,1070.0,,0.0,0.0,0.0,0.0,0.0,0.0,8.0,267.5
+house,ashok vihar phase 3 Gurugram,sector 5,0.95,8879.0,1070.0,Plot area 1070(99.41 sq.m.),4.0,3.0,2,1.0,East,Old Property,,1070.0,,0.0,0.0,0.0,0.0,0.0,0.0,8.0,267.5
 flat,ramsons kshitij,sector 95,0.35,5495.0,637.0,Built Up area: 637 (59.18 sq.m.),2.0,2.0,0,5.0,,Undefined,,637.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,318.5
 flat,emaar palm gardens,sector 83,3.15,8400.0,3750.0,Super Built up area 3750(348.39 sq.m.)Built Up area: 3200 sq.ft. (297.29 sq.m.)Carpet area: 2444.94 sq.ft. (227.14 sq.m.),5.0,7.0,3+,15.0,West,Relatively New,3750.0,3200.0,2444.94,0.0,1.0,0.0,0.0,0.0,1.0,165.0,750.0
 flat,signature global grand iva,sector 103,0.23,6534.0,352.0,Carpet area: 360 (33.45 sq.m.),1.0,1.0,1,4.0,North-East,Relatively New,,,360.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,352.0
 flat,m3m heights,sector 65,2.78,15200.0,1829.0,Super Built up area 1828(169.83 sq.m.),3.0,3.0,3,44.0,,Undefined,1828.0,,,0.0,0.0,0.0,0.0,0.0,0.0,56.0,609.6666666666666
-flat,alpha corp gurgaonone,sector 84,1.5,7641.0,1963.0,Super Built up area 1963(182.37 sq.m.)Carpet area: 1700 sq.ft. (157.94 sq.m.),3.0,3.0,3,20.0,North-West,Relatively New,1963.0,,1700.0,0.0,1.0,0.0,0.0,0.0,1.0,37.0,654.3333333333334
+flat,alpha corp Gurugramone,sector 84,1.5,7641.0,1963.0,Super Built up area 1963(182.37 sq.m.)Carpet area: 1700 sq.ft. (157.94 sq.m.),3.0,3.0,3,20.0,North-West,Relatively New,1963.0,,1700.0,0.0,1.0,0.0,0.0,0.0,1.0,37.0,654.3333333333334
 flat,signature global synera,sector 81,0.49,6667.0,735.0,Super Built up area 735(68.28 sq.m.)Built Up area: 700 sq.ft. (65.03 sq.m.)Carpet area: 635 sq.ft. (58.99 sq.m.),2.0,2.0,3,5.0,South,Relatively New,735.0,700.0,635.0,0.0,0.0,0.0,0.0,0.0,0.0,117.0,367.5
 house,central park flower valley cerise floors,sector 33,1.35,11157.0,1210.0,Built Up area: 1210 (112.41 sq.m.),2.0,2.0,2,4.0,East,New Property,,1210.0,,1.0,0.0,0.0,0.0,0.0,2.0,107.0,605.0
 house,independent,sector 14,6.4,20317.0,3150.0,Plot area 350(292.64 sq.m.)Built Up area: 349 sq.yards (291.81 sq.m.)Carpet area: 348 sq.yards (290.97 sq.m.),6.0,6.0,3+,3.0,North,Old Property,,349.0,348.0,0.0,0.0,0.0,0.0,1.0,0.0,35.0,525.0
@@ -355,7 +355,7 @@ flat,parsvnath green ville,sector 48,1.5,8787.0,1707.0,Super Built up area 1707(
 house,independent,sector 43,2.55,13178.0,1935.0,Built Up area: 215 (179.77 sq.m.),3.0,3.0,2,3.0,,Relatively New,,215.0,,0.0,0.0,0.0,0.0,0.0,1.0,60.0,645.0
 flat,dlf the arbour,sector 63,8.5,21519.0,3950.0,Built Up area: 3950 (366.97 sq.m.),4.0,4.0,0,27.0,,Undefined,,3950.0,,0.0,0.0,0.0,0.0,0.0,0.0,61.0,987.5
 flat,raheja vedaanta,sector 108,0.65,4762.0,1365.0,Super Built up area 1365(126.81 sq.m.),2.0,2.0,2,5.0,East,Relatively New,1365.0,,,0.0,0.0,0.0,1.0,0.0,1.0,174.0,682.5
-flat,alpha corp gurgaonone,sector 84,2.28,8769.0,2600.0,Super Built up area 3434(319.03 sq.m.)Carpet area: 2600 sq.ft. (241.55 sq.m.),4.0,4.0,3+,8.0,South-East,Relatively New,3434.0,,2600.0,0.0,1.0,0.0,0.0,0.0,0.0,61.0,650.0
+flat,alpha corp Gurugramone,sector 84,2.28,8769.0,2600.0,Super Built up area 3434(319.03 sq.m.)Carpet area: 2600 sq.ft. (241.55 sq.m.),4.0,4.0,3+,8.0,South-East,Relatively New,3434.0,,2600.0,0.0,1.0,0.0,0.0,0.0,0.0,61.0,650.0
 flat,antriksh heights,sector 84,0.88,4822.0,1825.0,Super Built up area 1825(169.55 sq.m.),3.0,3.0,3,16.0,,Relatively New,1825.0,,,0.0,0.0,0.0,1.0,0.0,0.0,67.0,608.3333333333334
 flat,shapoorji pallonji joyville gurugram,sector 102,1.99,20665.0,963.0,Super Built up area 1349(125.33 sq.m.)Carpet area: 963 sq.ft. (89.47 sq.m.),2.0,2.0,2,14.0,South,New Property,1349.0,,963.0,0.0,0.0,0.0,0.0,0.0,0.0,152.0,481.5
 flat,bptp terra,sector 37d,1.4,7731.0,1811.0,Super Built up area 1811(168.25 sq.m.)Built Up area: 1711 sq.ft. (158.96 sq.m.)Carpet area: 1611 sq.ft. (149.67 sq.m.),3.0,3.0,3,5.0,South-East,Relatively New,1811.0,1711.0,1611.0,0.0,0.0,0.0,0.0,0.0,1.0,149.0,603.6666666666666
@@ -397,8 +397,8 @@ flat,tulip ivory,sector 70,2.35,9792.0,2400.0,Carpet area: 2400 (222.97 sq.m.),4
 flat,ss the leaf,sector 85,1.11,6852.0,1620.0,Super Built up area 1640(152.36 sq.m.)Built Up area: 1630 sq.ft. (151.43 sq.m.)Carpet area: 1620 sq.ft. (150.5 sq.m.),2.0,2.0,3,8.0,North,Relatively New,1640.0,1630.0,1620.0,0.0,0.0,1.0,0.0,0.0,0.0,174.0,810.0
 house,dlf city plots phase 2,sector 25,4.25,31481.0,1350.0,Plot area 150(125.42 sq.m.),3.0,2.0,3,2.0,North,Old Property,,1350.0,,1.0,0.0,0.0,0.0,0.0,0.0,35.0,450.0
 flat,emaar mgf emerald floors premier,sector 65,2.25,13636.0,1650.0,Super Built up area 1650(153.29 sq.m.)Built Up area: 1600 sq.ft. (148.64 sq.m.)Carpet area: 1350 sq.ft. (125.42 sq.m.),3.0,3.0,3,3.0,South-West,Relatively New,1650.0,1600.0,1350.0,1.0,1.0,0.0,0.0,0.0,1.0,49.0,550.0
-flat,vatika gurgaon,sector 83,0.78,6265.0,1245.0,Super Built up area 1245(115.66 sq.m.)Built Up area: 850 sq.ft. (78.97 sq.m.)Carpet area: 790 sq.ft. (73.39 sq.m.),2.0,2.0,2,3.0,South-East,Relatively New,1245.0,850.0,790.0,1.0,0.0,0.0,1.0,0.0,1.0,165.0,622.5
-flat,alpha corp gurgaonone,sector 84,1.15,7497.0,1534.0,Super Built up area 1534(142.51 sq.m.)Carpet area: 1260 sq.ft. (117.06 sq.m.),2.0,2.0,3,14.0,South-East,Relatively New,1534.0,,1260.0,1.0,0.0,0.0,0.0,0.0,0.0,28.0,767.0
+flat,vatika Gurugram,sector 83,0.78,6265.0,1245.0,Super Built up area 1245(115.66 sq.m.)Built Up area: 850 sq.ft. (78.97 sq.m.)Carpet area: 790 sq.ft. (73.39 sq.m.),2.0,2.0,2,3.0,South-East,Relatively New,1245.0,850.0,790.0,1.0,0.0,0.0,1.0,0.0,1.0,165.0,622.5
+flat,alpha corp Gurugramone,sector 84,1.15,7497.0,1534.0,Super Built up area 1534(142.51 sq.m.)Carpet area: 1260 sq.ft. (117.06 sq.m.),2.0,2.0,3,14.0,South-East,Relatively New,1534.0,,1260.0,1.0,0.0,0.0,0.0,0.0,0.0,28.0,767.0
 house,spaze privy,sector 72,3.1,8486.0,3653.0,Plot area 3653(339.37 sq.m.),5.0,5.0,3+,21.0,,Relatively New,,3653.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,730.6
 flat,dlf new town heights,sector 91,2.0,6966.0,2871.0,Super Built up area 2727(253.35 sq.m.),4.0,4.0,3+,16.0,East,Moderately Old,2727.0,,,1.0,1.0,0.0,1.0,0.0,0.0,65.0,717.75
 flat,shree vardhman victoria,sector 70,1.64,8384.0,1956.0,Super Built up area 1950(181.16 sq.m.)Carpet area: 1161 sq.ft. (107.86 sq.m.),3.0,5.0,3,3.0,North,Relatively New,1950.0,,1161.0,0.0,1.0,0.0,0.0,0.0,0.0,51.0,652.0
@@ -532,7 +532,7 @@ flat,sare homes,sector 92,0.68,5239.0,1298.0,Carpet area: 1298 (120.59 sq.m.),3.
 flat,vatika the seven lamps,sector 82,0.78,5932.0,1315.0,Super Built up area 1298(120.59 sq.m.),2.0,2.0,2,0.0,North-West,Relatively New,1298.0,,,0.0,0.0,0.0,0.0,0.0,1.0,103.0,657.5
 flat,raisina residency,sector 59,5.0,13058.0,3829.0,Carpet area: 3829 (355.73 sq.m.),4.0,4.0,3+,13.0,North-West,Relatively New,,,3829.0,1.0,1.0,1.0,1.0,0.0,1.0,174.0,957.25
 flat,rwa,sector 7,0.48,6000.0,800.0,Carpet area: 800 (74.32 sq.m.),3.0,2.0,1,1.0,North-East,New Property,,,800.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,266.6666666666667
-flat,alpha corp gurgaonone,sector 84,1.15,7497.0,1534.0,Super Built up area 1534(142.51 sq.m.)Carpet area: 1200 sq.ft. (111.48 sq.m.),2.0,2.0,3,8.0,North-East,Relatively New,1534.0,,1200.0,1.0,0.0,0.0,0.0,0.0,1.0,37.0,767.0
+flat,alpha corp Gurugramone,sector 84,1.15,7497.0,1534.0,Super Built up area 1534(142.51 sq.m.)Carpet area: 1200 sq.ft. (111.48 sq.m.),2.0,2.0,3,8.0,North-East,Relatively New,1534.0,,1200.0,1.0,0.0,0.0,0.0,0.0,1.0,37.0,767.0
 flat,signature global city,sector 37d,1.1,8800.0,1250.0,Carpet area: 1250 (116.13 sq.m.),3.0,3.0,3,1.0,,Under Construction,,,1250.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,416.6666666666667
 flat,shree vardhman victoria,sector 70,1.75,8974.0,1950.0,Built Up area: 1950 (181.16 sq.m.),3.0,4.0,2,16.0,,Relatively New,,1950.0,,0.0,1.0,0.0,1.0,0.0,0.0,49.0,650.0
 flat,eros wembley estate,sector 50,1.4,10174.0,1376.0,Super Built up area 1376(127.83 sq.m.),3.0,3.0,2,9.0,East,Relatively New,1376.0,,,0.0,0.0,1.0,0.0,0.0,1.0,117.0,458.6666666666667
@@ -660,7 +660,7 @@ flat,sare crescent parc,sector 92,0.8,6033.0,1326.0,Carpet area: 1326 (123.19 sq
 flat,vatika emilia floors,sector 83,0.6,5714.0,1050.0,Super Built up area 1050(97.55 sq.m.)Built Up area: 990 sq.ft. (91.97 sq.m.)Carpet area: 950 sq.ft. (88.26 sq.m.),2.0,2.0,2,1.0,South,Relatively New,1050.0,990.0,950.0,0.0,0.0,0.0,0.0,0.0,1.0,167.0,525.0
 flat,orris aster court,sector 85,0.93,5671.0,1640.0,Built Up area: 1587 (147.44 sq.m.)Carpet area: 1250 sq.ft. (116.13 sq.m.),3.0,3.0,3,8.0,,Relatively New,,1587.0,1250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,546.6666666666666
 house,eldeco mansionz,sector 48,6.4,23704.0,2700.0,Plot area 365(305.19 sq.m.)Built Up area: 366 sq.yards (306.02 sq.m.),4.0,4.0,3,3.0,West,Moderately Old,,366.0,,0.0,1.0,1.0,0.0,0.0,1.0,151.0,675.0
-flat,emaar gurgaon greens,sector 102,1.45,8788.0,1650.0,Super Built up area 1650(153.29 sq.m.),3.0,3.0,2,7.0,South-West,Relatively New,1650.0,,,0.0,1.0,0.0,0.0,0.0,1.0,169.0,550.0
+flat,emaar Gurugram greens,sector 102,1.45,8788.0,1650.0,Super Built up area 1650(153.29 sq.m.),3.0,3.0,2,7.0,South-West,Relatively New,1650.0,,,0.0,1.0,0.0,0.0,0.0,1.0,169.0,550.0
 flat,ss the leaf,sector 85,1.18,10727.0,1100.0,Super Built up area 1741(161.74 sq.m.)Built Up area: 1700 sq.ft. (157.94 sq.m.)Carpet area: 1100 sq.ft. (102.19 sq.m.),2.0,2.0,3,9.0,North-East,Relatively New,1741.0,1700.0,1100.0,1.0,0.0,0.0,0.0,0.0,1.0,150.0,550.0
 house,rwa sector 46,sector 46,3.5,21605.0,1620.0,Plot area 180(150.5 sq.m.),4.0,4.0,2,2.0,South-East,Relatively New,,1620.0,,0.0,0.0,0.0,1.0,0.0,1.0,30.0,405.0
 house,vatika india next,sector 83,1.7,7870.0,2160.0,Plot area 240(200.67 sq.m.),3.0,3.0,3+,4.0,North-West,New Property,,2160.0,,0.0,1.0,0.0,1.0,0.0,0.0,0.0,720.0
@@ -859,13 +859,13 @@ flat,ansal heights 86,sector 86,0.87,5367.0,1621.0,Super Built up area 1360(126.
 flat,emaar mgf emerald floors premier,sector 65,2.3,13939.0,1650.0,Carpet area: 1650 (153.29 sq.m.),3.0,4.0,3,3.0,South-West,Relatively New,,,1650.0,1.0,1.0,1.0,1.0,0.0,2.0,174.0,550.0
 flat,m3m heights,sector 65,2.33,18477.0,1261.0,Super Built up area 1261(117.15 sq.m.),2.0,2.0,3,35.0,North-East,Under Construction,1261.0,,,0.0,0.0,0.0,0.0,0.0,1.0,49.0,630.5
 flat,ats tourmaline,sector 109,1.75,8140.0,2150.0,Super Built up area 2150(199.74 sq.m.),3.0,4.0,3+,9.0,North-East,Relatively New,2150.0,,,0.0,1.0,0.0,0.0,0.0,0.0,94.0,716.6666666666666
-flat,emaar gurgaon greens,sector 102,1.39,8424.0,1650.0,Super Built up area 1650(153.29 sq.m.),3.0,3.0,3,7.0,West,Relatively New,1650.0,,,0.0,1.0,0.0,0.0,0.0,1.0,21.0,550.0
+flat,emaar Gurugram greens,sector 102,1.39,8424.0,1650.0,Super Built up area 1650(153.29 sq.m.),3.0,3.0,3,7.0,West,Relatively New,1650.0,,,0.0,1.0,0.0,0.0,0.0,1.0,21.0,550.0
 flat,valley view estate,gwal pahari,0.38,6090.0,624.0,Super Built up area 624(57.97 sq.m.),1.0,1.0,1,11.0,,Moderately Old,624.0,,,0.0,0.0,0.0,0.0,0.0,0.0,42.0,624.0
 flat,signature global park,sohna road,0.78,6446.0,1210.0,Carpet area: 1210 (112.41 sq.m.),3.0,3.0,3,3.0,South-West,Relatively New,,,1210.0,0.0,0.0,0.0,1.0,0.0,0.0,150.0,403.3333333333333
 flat,dhoot time residency,sector 63,2.2,12813.0,1717.0,Super Built up area 1717(159.51 sq.m.),3.0,4.0,3+,8.0,North-West,Moderately Old,1717.0,,,1.0,0.0,0.0,0.0,0.0,1.0,61.0,572.3333333333334
 flat,godrej nature plus,sector 33,1.67,10503.0,1590.0,Carpet area: 1671 (155.24 sq.m.),3.0,2.0,2,18.0,,Under Construction,,,1671.0,0.0,0.0,0.0,0.0,0.0,0.0,67.0,530.0
 house,independent,sector 28,12.0,42194.0,2844.0,Plot area 316(264.22 sq.m.),4.0,5.0,3+,4.0,East,Relatively New,,2844.0,,0.0,1.0,1.0,1.0,0.0,1.0,60.0,711.0
-flat,avl 36 gurgaon,sector 36,0.45,9000.0,500.0,Super Built up area 500(46.45 sq.m.),1.0,1.0,1,9.0,,Relatively New,500.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,500.0
+flat,avl 36 Gurugram,sector 36,0.45,9000.0,500.0,Super Built up area 500(46.45 sq.m.),1.0,1.0,1,9.0,,Relatively New,500.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,500.0
 flat,the close north,sector 50,2.35,11358.0,2069.0,Super Built up area 2069(192.22 sq.m.)Built Up area: 1900 sq.ft. (176.52 sq.m.)Carpet area: 1800 sq.ft. (167.23 sq.m.),3.0,3.0,3,8.0,North-West,Moderately Old,2069.0,1900.0,1800.0,0.0,0.0,0.0,0.0,0.0,1.0,49.0,689.6666666666666
 flat,parsvnath green ville,sector 48,2.0,7764.0,2576.0,Super Built up area 2125(197.42 sq.m.),3.0,3.0,0,15.0,,Relatively New,2125.0,,,0.0,1.0,0.0,0.0,0.0,0.0,74.0,858.6666666666666
 flat,valley view estate,gwal pahari,1.5,8278.0,1812.0,Carpet area: 1812 (168.34 sq.m.),4.0,4.0,3+,9.0,North,Old Property,,,1812.0,1.0,1.0,0.0,0.0,1.0,0.0,135.0,453.0
@@ -900,7 +900,7 @@ house,independent,sector 4,0.8,11852.0,675.0,Plot area 75(62.71 sq.m.),2.0,3.0,1
 flat,palam vihar extension west zone rwa,sector 2,0.2,4000.0,500.0,Carpet area: 500 (46.45 sq.m.),1.0,1.0,1,1.0,,Moderately Old,,,500.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,500.0
 house,international city by sobha phase 1,sector 109,6.0,9634.0,6228.0,Plot area 692(578.6 sq.m.),4.0,5.0,3,2.0,North-East,Moderately Old,,6228.0,,0.0,0.0,0.0,0.0,0.0,0.0,76.0,1557.0
 flat,orris carnation residency,sector 85,0.88,5954.0,1478.0,Super Built up area 1485(137.96 sq.m.),3.0,3.0,1,1.0,South,Relatively New,1485.0,,,0.0,0.0,0.0,0.0,0.0,0.0,65.0,492.6666666666667
-flat,emaar gurgaon greens,sector 102,1.4,13685.0,1023.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,7.0,East,Relatively New,1650.0,,1022.58,0.0,1.0,0.0,0.0,0.0,0.0,67.0,341.0
+flat,emaar Gurugram greens,sector 102,1.4,13685.0,1023.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,7.0,East,Relatively New,1650.0,,1022.58,0.0,1.0,0.0,0.0,0.0,0.0,67.0,341.0
 flat,sobha city,sector 108,3.35,13267.0,2525.0,Super Built up area 2072.9(192.58 sq.m.),3.0,4.0,2,19.0,,New Property,2072.9,,,0.0,0.0,0.0,0.0,0.0,0.0,102.0,841.6666666666666
 flat,shapoorji pallonji joyville gurugram,sector 102,1.76,10227.0,1721.0,Super Built up area 1692(157.19 sq.m.),3.0,3.0,3,1.0,North-East,Relatively New,1692.0,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,573.6666666666666
 flat,raheja vanya,sector 99,0.85,6789.0,1252.0,Super Built up area 1252(116.31 sq.m.),2.0,2.0,2,3.0,West,New Property,1252.0,,,0.0,0.0,0.0,0.0,0.0,0.0,43.0,626.0
@@ -943,11 +943,11 @@ flat,eldeco accolade,sohna road,0.66,5181.0,1274.0,Super Built up area 1264(117.
 house,independent,sector 12,0.7,4118.0,1700.0,Plot area 1700(157.94 sq.m.),4.0,4.0,1,2.0,,Moderately Old,,1700.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,425.0
 house,ansals palam vihar,sector 2,9.0,19231.0,4680.0,Plot area 520(434.79 sq.m.),5.0,5.0,2,2.0,North,Old Property,,4680.0,,1.0,1.0,1.0,1.0,0.0,2.0,110.0,936.0
 flat,ss the leaf,sector 85,1.2,10453.0,1148.0,Super Built up area 1640(152.36 sq.m.)Carpet area: 1148 sq.ft. (106.65 sq.m.),2.0,2.0,3+,2.0,West,Relatively New,1640.0,,1148.0,0.0,0.0,1.0,0.0,0.0,0.0,156.0,574.0
-flat,avl 36 gurgaon,sector 36,0.36,9000.0,400.0,Super Built up area 406(37.72 sq.m.)Carpet area: 402 sq.ft. (37.35 sq.m.),1.0,1.0,1,7.0,West,Relatively New,406.0,,402.0,0.0,0.0,0.0,0.0,0.0,0.0,95.0,400.0
+flat,avl 36 Gurugram,sector 36,0.36,9000.0,400.0,Super Built up area 406(37.72 sq.m.)Carpet area: 402 sq.ft. (37.35 sq.m.),1.0,1.0,1,7.0,West,Relatively New,406.0,,402.0,0.0,0.0,0.0,0.0,0.0,0.0,95.0,400.0
 house,independent,sector 5,3.5,15556.0,2250.0,Plot area 2050(190.45 sq.m.)Built Up area: 2250 sq.ft. (209.03 sq.m.),6.0,5.0,2,3.0,North-East,Old Property,,2250.0,,1.0,1.0,0.0,1.0,1.0,2.0,155.0,375.0
 flat,bestech park view spa next,sector 67,2.35,12145.0,1935.0,Super Built up area 1935(179.77 sq.m.),3.0,4.0,3+,14.0,South-West,Moderately Old,1935.0,,,0.0,1.0,0.0,0.0,0.0,1.0,156.0,645.0
 flat,capital residences 360,sector 70a,1.51,7642.0,1976.0,Super Built up area 1976(183.58 sq.m.),3.0,3.0,3,7.0,South-East,Relatively New,1976.0,,,0.0,1.0,0.0,0.0,0.0,0.0,49.0,658.6666666666666
-flat,vatika gurgaon,sector 83,0.85,8947.0,950.0,Super Built up area 1245(115.66 sq.m.)Built Up area: 1100 sq.ft. (102.19 sq.m.)Carpet area: 950 sq.ft. (88.26 sq.m.),2.0,2.0,2,18.0,West,Moderately Old,1245.0,1100.0,950.0,0.0,0.0,0.0,1.0,0.0,1.0,119.0,475.0
+flat,vatika Gurugram,sector 83,0.85,8947.0,950.0,Super Built up area 1245(115.66 sq.m.)Built Up area: 1100 sq.ft. (102.19 sq.m.)Carpet area: 950 sq.ft. (88.26 sq.m.),2.0,2.0,2,18.0,West,Moderately Old,1245.0,1100.0,950.0,0.0,0.0,0.0,1.0,0.0,1.0,119.0,475.0
 flat,godrej air,sector 85,1.05,10606.0,990.0,Built Up area: 97 Carpet area: 92 sq.m.,2.0,2.0,1,15.0,East,Under Construction,,97.0,92.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0,495.0
 flat,spaze privy,sector 72,1.9,9620.0,1975.0,Super Built up area 1975(183.48 sq.m.),3.0,3.0,3,10.0,,Moderately Old,1975.0,,,0.0,1.0,0.0,0.0,0.0,1.0,31.0,658.3333333333334
 house,nul,sector 25,6.25,34722.0,1800.0,Plot area 200(167.23 sq.m.),5.0,5.0,3,2.0,East,Moderately Old,,1800.0,,0.0,1.0,0.0,1.0,0.0,1.0,112.0,360.0
@@ -970,7 +970,7 @@ house,independent,sector 4,0.85,7522.0,1130.0,Built Up area: 1130 (104.98 sq.m.)
 flat,malibu towne,sector 47,2.4,10000.0,2400.0,Carpet area: 2400 (222.97 sq.m.),3.0,3.0,0,0.0,West,Moderately Old,,,2400.0,0.0,0.0,0.0,0.0,0.0,1.0,22.0,800.0
 house,independent,sector 13,4.5,9091.0,4950.0,Plot area 550(459.87 sq.m.),4.0,5.0,2,2.0,East,Old Property,,4950.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1237.5
 flat,sidhartha ncr one phase,sector 95,0.43,3152.0,1364.0,Super Built up area 1364(126.72 sq.m.)Built Up area: 1300 sq.ft. (120.77 sq.m.)Carpet area: 1020 sq.ft. (94.76 sq.m.),2.0,2.0,2,6.0,North,Relatively New,1364.0,1300.0,1020.0,0.0,0.0,0.0,0.0,0.0,0.0,120.0,682.0
-flat,emaar gurgaon greens,sector 102,1.38,13490.0,1023.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,6.0,North-East,Relatively New,1650.0,,1022.58,0.0,1.0,0.0,0.0,0.0,1.0,128.0,341.0
+flat,emaar Gurugram greens,sector 102,1.38,13490.0,1023.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,6.0,North-East,Relatively New,1650.0,,1022.58,0.0,1.0,0.0,0.0,0.0,1.0,128.0,341.0
 house,dlf city plots phase 2,sector 25,15.5,34307.0,4518.0,Plot area 502(419.74 sq.m.),5.0,6.0,3+,3.0,East,Moderately Old,,4518.0,,1.0,1.0,1.0,1.0,0.0,0.0,144.0,903.6
 flat,chd avenue,sector 71,1.35,5745.0,2350.0,Super Built up area 2350(218.32 sq.m.),4.0,4.0,3,8.0,North-West,Moderately Old,2350.0,,,0.0,1.0,0.0,0.0,0.0,0.0,26.0,587.5
 flat,emaar mgf emerald floors premier,sector 65,3.0,15190.0,1975.0,Super Built up area 1975(183.48 sq.m.),4.0,4.0,3+,2.0,South-East,Relatively New,1975.0,,,0.0,1.0,0.0,0.0,0.0,0.0,87.0,493.75
@@ -1024,7 +1024,7 @@ house,international city by sobha phase 1,sector 109,6.75,10838.0,6228.0,Plot ar
 house,independent,sector 7,1.15,8519.0,1350.0,Plot area 150(125.42 sq.m.),5.0,3.0,2,2.0,North-East,Old Property,,1350.0,,0.0,0.0,0.0,1.0,0.0,0.0,15.0,270.0
 flat,signature global rosellia,sector 95,0.45,8755.0,514.0,Carpet area: 514 (47.75 sq.m.),2.0,2.0,2,14.0,,New Property,,,514.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,257.0
 flat,dlf new town heights,sector 91,1.75,7403.0,2364.0,Super Built up area 2364(219.62 sq.m.),4.0,4.0,3+,9.0,South,Relatively New,2364.0,,,0.0,1.0,0.0,1.0,0.0,0.0,88.0,591.0
-flat,vatika gurgaon,sector 83,1.1,6162.0,1785.0,Super Built up area 1785(165.83 sq.m.)Built Up area: 1600 sq.ft. (148.64 sq.m.)Carpet area: 1500 sq.ft. (139.35 sq.m.),3.0,3.0,3+,5.0,North-West,Relatively New,1785.0,1600.0,1500.0,0.0,0.0,0.0,0.0,0.0,1.0,96.0,595.0
+flat,vatika Gurugram,sector 83,1.1,6162.0,1785.0,Super Built up area 1785(165.83 sq.m.)Built Up area: 1600 sq.ft. (148.64 sq.m.)Carpet area: 1500 sq.ft. (139.35 sq.m.),3.0,3.0,3+,5.0,North-West,Relatively New,1785.0,1600.0,1500.0,0.0,0.0,0.0,0.0,0.0,1.0,96.0,595.0
 flat,pareena mi casa,sector 68,1.7,8504.0,1999.0,Super Built up area 1999(185.71 sq.m.),4.0,4.0,3,2.0,,New Property,1999.0,,,0.0,0.0,0.0,0.0,0.0,0.0,47.0,499.75
 flat,raheja the vedaanta floors,sector 108,0.7,4522.0,1548.0,Carpet area: 1548 (143.81 sq.m.),2.0,2.0,3,1.0,,Moderately Old,,,1548.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,774.0
 flat,bestech park view residency,sector 2,1.51,7869.0,1919.0,Super Built up area 1920(178.37 sq.m.),3.0,4.0,3+,7.0,South-West,Moderately Old,1920.0,,,0.0,1.0,0.0,0.0,0.0,1.0,84.0,639.6666666666666
@@ -1060,7 +1060,7 @@ flat,ats kocoon,sector 109,1.65,10645.0,1550.0,Super Built up area 1745(162.12 s
 flat,emaar palm gardens,sector 83,1.4,8140.0,1720.0,Super Built up area 1720(159.79 sq.m.)Carpet area: 1095.3 sq.ft. (101.76 sq.m.),3.0,3.0,3,2.0,North-West,Relatively New,1720.0,,1095.3,1.0,1.0,1.0,1.0,0.0,1.0,174.0,573.3333333333334
 flat,umang winter hills,sector 77,1.4,6341.0,2208.0,Built Up area: 1735 (161.19 sq.m.),3.0,3.0,3,10.0,North-East,Undefined,,1735.0,,0.0,0.0,0.0,0.0,0.0,0.0,28.0,736.0
 house,ansal sushant lok plots,sector 43,5.8,29974.0,1935.0,Plot area 215(179.77 sq.m.),6.0,6.0,3,2.0,South-West,Relatively New,,1935.0,,0.0,1.0,0.0,0.0,1.0,1.0,49.0,322.5
-flat,tata gurgaon gateway,sector 113,3.21,11823.0,2715.0,Super Built up area 2520(234.12 sq.m.),3.0,3.0,3,9.0,,New Property,2520.0,,,0.0,0.0,0.0,0.0,0.0,0.0,49.0,905.0
+flat,tata Gurugram gateway,sector 113,3.21,11823.0,2715.0,Super Built up area 2520(234.12 sq.m.),3.0,3.0,3,9.0,,New Property,2520.0,,,0.0,0.0,0.0,0.0,0.0,0.0,49.0,905.0
 house,independent,sector 3,0.9,10000.0,900.0,Plot area 900(83.61 sq.m.)Built Up area: 3500 sq.ft. (325.16 sq.m.),3.0,4.0,3,3.0,,Moderately Old,,3500.0,,0.0,0.0,0.0,0.0,1.0,1.0,42.0,300.0
 house,tata primanti,sector 72,8.5,13492.0,6300.0,Plot area 6300(585.29 sq.m.),5.0,6.0,3+,10.0,East,Relatively New,,6300.0,,1.0,1.0,1.0,1.0,0.0,1.0,145.0,1260.0
 flat,sapphire eighty three,sector 83,0.4,8547.0,468.0,Carpet area: 468 (43.48 sq.m.),1.0,1.0,1,6.0,North-East,Relatively New,,,468.0,0.0,0.0,0.0,0.0,0.0,2.0,52.0,468.0
@@ -1210,7 +1210,7 @@ flat,signature global park,sohna road,0.53,6386.0,830.0,Carpet area: 822 (76.37 
 house,independent,sector 7,2.43,14890.0,1632.0,Plot area 181.33(151.61 sq.m.)Built Up area: 345 sq.yards (288.46 sq.m.),4.0,4.0,2,3.0,South-West,Old Property,,345.0,,1.0,0.0,1.0,1.0,0.0,0.0,38.0,408.0
 flat,sare crescent parc royal greens phase 1,sector 92,0.95,5008.0,1897.0,Super Built up area 1897(176.24 sq.m.),4.0,5.0,3+,4.0,,Moderately Old,1897.0,,,0.0,1.0,0.0,0.0,0.0,0.0,37.0,474.25
 house,vipul tatvam villa,sector 48,7.25,22377.0,3240.0,Plot area 360(33.45 sq.m.),4.0,4.0,3,2.0,,Relatively New,,360.0,,1.0,1.0,1.0,1.0,0.0,1.0,103.0,810.0
-flat,vatika gurgaon,sector 83,1.19,7438.0,1600.0,Carpet area: 1600 (148.64 sq.m.),3.0,3.0,2,10.0,South,Relatively New,,,1600.0,0.0,1.0,0.0,0.0,0.0,1.0,35.0,533.3333333333334
+flat,vatika Gurugram,sector 83,1.19,7438.0,1600.0,Carpet area: 1600 (148.64 sq.m.),3.0,3.0,2,10.0,South,Relatively New,,,1600.0,0.0,1.0,0.0,0.0,0.0,1.0,35.0,533.3333333333334
 flat,raheja vanya,sector 99,0.59,3976.0,1484.0,Super Built up area 1252.13(116.33 sq.m.),2.0,2.0,3,1.0,East,Under Construction,1252.13,,,0.0,0.0,0.0,0.0,1.0,0.0,96.0,742.0
 flat,lotus homz,sector 111,0.6,8451.0,710.0,Carpet area: 710 (65.96 sq.m.),2.0,2.0,3,9.0,East,New Property,,,710.0,0.0,0.0,0.0,0.0,0.0,0.0,52.0,355.0
 flat,smart world orchard,sector 61,1.41,12250.0,1151.0,Built Up area: 1150 (106.84 sq.m.),2.0,2.0,2,2.0,,Under Construction,,1150.0,,1.0,0.0,0.0,0.0,0.0,0.0,76.0,575.5
@@ -1223,7 +1223,7 @@ flat,supertech hues,sector 68,1.0,8475.0,1180.0,Carpet area: 1180 (109.63 sq.m.)
 flat,chd avenue,sector 71,0.95,7930.0,1198.0,Super Built up area 1198(111.3 sq.m.),2.0,2.0,2,5.0,South,Moderately Old,1198.0,,,0.0,0.0,0.0,0.0,0.0,1.0,142.0,599.0
 flat,the nav manesar apartment,sector 1,0.85,3953.0,2150.0,Super Built up area 2150(199.74 sq.m.),3.0,3.0,3+,5.0,North-East,Moderately Old,2150.0,,,0.0,1.0,0.0,0.0,0.0,0.0,5.0,716.6666666666666
 flat,suncity heights,sector 54,3.25,14118.0,2302.0,Carpet area: 2302 (213.86 sq.m.),3.0,3.0,3+,0.0,East,Old Property,,,2302.0,0.0,0.0,0.0,1.0,0.0,1.0,120.0,767.3333333333334
-flat,vatika gurgaon,sector 83,1.25,6313.0,1980.0,Super Built up area 1980(183.95 sq.m.),3.0,3.0,2,2.0,West,Relatively New,1980.0,,,0.0,1.0,0.0,0.0,0.0,0.0,119.0,660.0
+flat,vatika Gurugram,sector 83,1.25,6313.0,1980.0,Super Built up area 1980(183.95 sq.m.),3.0,3.0,2,2.0,West,Relatively New,1980.0,,,0.0,1.0,0.0,0.0,0.0,0.0,119.0,660.0
 house,independent,sector 28,8.4,34568.0,2430.0,Plot area 270(225.75 sq.m.),4.0,4.0,3+,2.0,North-East,Relatively New,,2430.0,,0.0,1.0,1.0,1.0,0.0,1.0,139.0,607.5
 house,not applicable,sector 4,0.8,6088.0,1314.0,Plot area 146(13.56 sq.m.),5.0,4.0,3,3.0,,Under Construction,,146.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,262.8
 flat,m3m the marina,sector 68,1.0,12500.0,800.0,Carpet area: 800 (74.32 sq.m.),2.0,2.0,3,21.0,,Relatively New,,,800.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0,400.0
@@ -1259,7 +1259,7 @@ flat,assotech blith,sector 99,1.9,6702.0,2835.0,Built Up area: 2835 (263.38 sq.m
 flat,birla navya,sector 63a,3.7,15417.0,2400.0,Carpet area: 2400 (222.97 sq.m.),3.0,3.0,3+,1.0,North,Under Construction,,,2400.0,0.0,0.0,0.0,0.0,0.0,0.0,72.0,800.0
 house,unitech palms south city 1,sector 41,9.25,28549.0,3240.0,Plot area 3240(301.01 sq.m.)Built Up area: 5000 sq.ft. (464.52 sq.m.)Carpet area: 4500 sq.ft. (418.06 sq.m.),9.0,9.0,3+,4.0,North,Moderately Old,,5000.0,4500.0,1.0,1.0,1.0,1.0,0.0,1.0,65.0,360.0
 house,independent,sohna road,1.5,14245.0,1053.0,Plot area 117(97.83 sq.m.),2.0,3.0,2,1.0,North,New Property,,1053.0,,1.0,0.0,0.0,1.0,0.0,1.0,69.0,526.5
-flat,emaar gurgaon greens,sector 102,1.54,9333.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,12.0,North-East,Relatively New,1650.0,,1022.58,0.0,1.0,0.0,0.0,0.0,0.0,61.0,550.0
+flat,emaar Gurugram greens,sector 102,1.54,9333.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,12.0,North-East,Relatively New,1650.0,,1022.58,0.0,1.0,0.0,0.0,0.0,0.0,61.0,550.0
 flat,lord krishna,sector 12,2.7,8571.0,3150.0,Built Up area: 3150 (292.64 sq.m.),4.0,3.0,3,6.0,North-East,Undefined,,3150.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,787.5
 house,unitech palms south city 1,sector 41,9.35,28858.0,3240.0,Plot area 3240(301.01 sq.m.)Built Up area: 7500 sq.ft. (696.77 sq.m.)Carpet area: 6000 sq.ft. (557.42 sq.m.),10.0,10.0,3+,4.0,North-East,Moderately Old,,7500.0,6000.0,1.0,1.0,0.0,0.0,0.0,1.0,70.0,324.0
 flat,tata primanti,sector 72,3.21,16050.0,2000.0,Super Built up area 2185(202.99 sq.m.)Built Up area: 2140 sq.ft. (198.81 sq.m.)Carpet area: 2000 sq.ft. (185.81 sq.m.),3.0,4.0,3+,15.0,North-East,Relatively New,2185.0,2140.0,2000.0,0.0,1.0,0.0,0.0,0.0,1.0,174.0,666.6666666666666
@@ -1275,7 +1275,7 @@ flat,tata primanti,sector 72,6.75,19286.0,3500.0,Super Built up area 4250(394.84
 flat,unitech the residences,sector 33,1.55,9873.0,1570.0,Super Built up area 1570(145.86 sq.m.),3.0,4.0,1,1.0,South,Relatively New,1570.0,,,0.0,1.0,0.0,0.0,0.0,0.0,37.0,523.3333333333334
 flat,orris aster court,sector 85,0.67,5826.0,1150.0,Super Built up area 1375(127.74 sq.m.)Built Up area: 1250 sq.ft. (116.13 sq.m.)Carpet area: 1150 sq.ft. (106.84 sq.m.),2.0,2.0,2,5.0,North-West,Relatively New,1375.0,1250.0,1150.0,0.0,0.0,0.0,0.0,1.0,1.0,174.0,575.0
 flat,signature global solera,sector 107,0.5,7692.0,650.0,Super Built up area 546(50.73 sq.m.),2.0,2.0,1,11.0,,Relatively New,546.0,,,0.0,0.0,0.0,0.0,0.0,0.0,55.0,325.0
-flat,emaar gurgaon greens,sector 102,1.45,8788.0,1650.0,Super Built up area 1650(153.29 sq.m.)Built Up area: 1300 sq.ft. (120.77 sq.m.)Carpet area: 1100 sq.ft. (102.19 sq.m.),3.0,3.0,3,8.0,North-East,Relatively New,1650.0,1300.0,1100.0,0.0,1.0,0.0,0.0,0.0,0.0,49.0,550.0
+flat,emaar Gurugram greens,sector 102,1.45,8788.0,1650.0,Super Built up area 1650(153.29 sq.m.)Built Up area: 1300 sq.ft. (120.77 sq.m.)Carpet area: 1100 sq.ft. (102.19 sq.m.),3.0,3.0,3,8.0,North-East,Relatively New,1650.0,1300.0,1100.0,0.0,1.0,0.0,0.0,0.0,0.0,49.0,550.0
 flat,lavanya apartments,sector 81,0.9,5056.0,1780.0,Built Up area: 1780 (165.37 sq.m.),3.0,3.0,0,7.0,,Undefined,,1780.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,593.3333333333334
 house,ansal api esencia,sector 67,1.85,8222.0,2250.0,Carpet area: 250 (23.23 sq.m.),3.0,3.0,3,1.0,,Undefined,,,250.0,0.0,0.0,0.0,0.0,0.0,0.0,49.0,750.0
 flat,cghs rail vihar,sector 15,1.4,10769.0,1300.0,Carpet area: 1300 (120.77 sq.m.),4.0,3.0,3,3.0,East,Old Property,,,1300.0,0.0,0.0,0.0,0.0,0.0,1.0,81.0,325.0
@@ -1289,7 +1289,7 @@ flat,kw royal court,sector 39,2.0,6250.0,3200.0,Carpet area: 3200 (297.29 sq.m.)
 flat,m3m skywalk,sector 74,1.5,10714.0,1400.0,Carpet area: 1400 (130.06 sq.m.),2.0,2.0,1,8.0,,New Property,,,1400.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,700.0
 flat,umang winter hills,sector 77,0.75,5589.0,1342.0,Super Built up area 1342(124.68 sq.m.)Built Up area: 1180 sq.ft. (109.63 sq.m.)Carpet area: 1050 sq.ft. (97.55 sq.m.),2.0,2.0,2,7.0,North-East,Relatively New,1342.0,1180.0,1050.0,0.0,0.0,0.0,0.0,0.0,1.0,174.0,671.0
 flat,landmark the residency,sector 103,0.9,6667.0,1350.0,Super Built up area 1350(125.42 sq.m.),2.0,2.0,2,1.0,South-West,Relatively New,1350.0,,,0.0,0.0,0.0,0.0,0.0,0.0,44.0,675.0
-flat,avl 36 gurgaon,sector 36,0.5,8333.0,600.0,Built Up area: 600 (55.74 sq.m.)Carpet area: 500 sq.ft. (46.45 sq.m.),1.0,1.0,1,5.0,,Undefined,,600.0,500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,600.0
+flat,avl 36 Gurugram,sector 36,0.5,8333.0,600.0,Built Up area: 600 (55.74 sq.m.)Carpet area: 500 sq.ft. (46.45 sq.m.),1.0,1.0,1,5.0,,Undefined,,600.0,500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,600.0
 house,independent,sector 13,9.0,11111.0,8100.0,Plot area 900(83.61 sq.m.),10.0,5.0,3+,4.0,,Old Property,,900.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,810.0
 flat,m3m urbana,sector 67,1.0,12107.0,826.0,Built Up area: 826 (76.74 sq.m.),1.0,1.0,1,17.0,South,Relatively New,,826.0,,0.0,0.0,0.0,0.0,0.0,0.0,49.0,826.0
 flat,ambience creacions,sector 22,1.75,12700.0,1378.0,Super Built up area 1380(128.21 sq.m.),2.0,2.0,2,11.0,,Under Construction,1380.0,,,0.0,0.0,0.0,0.0,0.0,0.0,57.0,689.0
@@ -1321,7 +1321,7 @@ house,independent,sector 57,6.21,23000.0,2700.0,Plot area 300(250.84 sq.m.),6.0,
 flat,ireo uptown,sector 66,1.5,11219.0,1337.0,Super Built up area 1337(124.21 sq.m.)Built Up area: 1330 sq.ft. (123.56 sq.m.)Carpet area: 1050 sq.ft. (97.55 sq.m.),2.0,3.0,3,1.0,South,Relatively New,1337.0,1330.0,1050.0,0.0,1.0,0.0,0.0,1.0,1.0,79.0,668.5
 house,ansals palam vihar,sector 2,5.7,14729.0,3870.0,Plot area 430(359.53 sq.m.)Built Up area: 4550 sq.yards (3804.38 sq.m.)Carpet area: 4450 sq.yards (3720.77 sq.m.),5.0,5.0,2,2.0,North-East,Old Property,,4550.0,4450.0,0.0,0.0,0.0,1.0,0.0,2.0,94.0,774.0
 flat,supertech araville,sector 79,0.95,6209.0,1530.0,Super Built up area 1530(142.14 sq.m.),2.0,2.0,3,7.0,North-East,New Property,1530.0,,,1.0,0.0,0.0,0.0,0.0,0.0,49.0,765.0
-flat,avl 36 gurgaon,sector 36,0.37,10541.0,351.0,Super Built up area 352(32.7 sq.m.),1.0,1.0,1,3.0,North,Relatively New,352.0,,,0.0,0.0,0.0,0.0,0.0,1.0,88.0,351.0
+flat,avl 36 Gurugram,sector 36,0.37,10541.0,351.0,Super Built up area 352(32.7 sq.m.),1.0,1.0,1,3.0,North,Relatively New,352.0,,,0.0,0.0,0.0,0.0,0.0,1.0,88.0,351.0
 flat,essel towers,sector 14,2.75,12500.0,2200.0,Built Up area: 2200 (204.39 sq.m.),4.0,5.0,3+,8.0,East,Old Property,,2200.0,,1.0,1.0,0.0,0.0,0.0,2.0,128.0,550.0
 flat,elevate,sector 50,6.75,19882.0,3395.0,Built Up area: 3395 (315.41 sq.m.),4.0,4.0,0,10.0,,Undefined,,3395.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,848.75
 flat,experion the heartsong,sector 108,1.25,9259.0,1350.0,Super Built up area 1758(163.32 sq.m.)Built Up area: 1500 sq.ft. (139.35 sq.m.)Carpet area: 1350 sq.ft. (125.42 sq.m.),3.0,3.0,3,1.0,South-East,Relatively New,1758.0,1500.0,1350.0,0.0,1.0,0.0,1.0,0.0,0.0,174.0,450.0
@@ -1340,7 +1340,7 @@ flat,emaar mgf palm hills,sector 77,1.9,9500.0,2000.0,Super Built up area 2000(1
 flat,bptp pedestal,sector 70a,1.9,9500.0,2000.0,Carpet area: 1900 (176.52 sq.m.),4.0,3.0,3,2.0,East,New Property,,,1900.0,0.0,0.0,1.0,0.0,0.0,0.0,133.0,500.0
 flat,sunischit apartments,sector 54,1.75,7955.0,2200.0,Super Built up area 2200(204.39 sq.m.)Built Up area: 2100 sq.ft. (195.1 sq.m.)Carpet area: 2000 sq.ft. (185.81 sq.m.),3.0,3.0,3+,6.0,North-East,Moderately Old,2200.0,2100.0,2000.0,0.0,1.0,0.0,0.0,0.0,1.0,126.0,733.3333333333334
 flat,emaar mgf palm hills,sector 77,1.55,7949.0,1950.0,Super Built up area 1950(181.16 sq.m.)Built Up area: 1800 sq.ft. (167.23 sq.m.)Carpet area: 1702 sq.ft. (158.12 sq.m.),4.0,4.0,3+,2.0,North-East,Relatively New,1950.0,1800.0,1702.0,1.0,1.0,0.0,0.0,0.0,2.0,49.0,487.5
-flat,alpha corp gurgaonone,sector 84,1.2,9449.0,1270.0,Super Built up area 1270(117.99 sq.m.),2.0,2.0,1,6.0,South-West,Relatively New,1270.0,,,0.0,0.0,0.0,0.0,0.0,0.0,13.0,635.0
+flat,alpha corp Gurugramone,sector 84,1.2,9449.0,1270.0,Super Built up area 1270(117.99 sq.m.),2.0,2.0,1,6.0,South-West,Relatively New,1270.0,,,0.0,0.0,0.0,0.0,0.0,0.0,13.0,635.0
 flat,dlf new town heights,sector 86,1.28,8205.0,1560.0,Super Built up area 1930(179.3 sq.m.)Carpet area: 1560 sq.ft. (144.93 sq.m.),3.0,4.0,3+,12.0,West,Moderately Old,1930.0,,1560.0,0.0,1.0,0.0,1.0,0.0,0.0,96.0,520.0
 flat,vatika inxt floors,sector 82a,1.25,8333.0,1500.0,Carpet area: 1500 (139.35 sq.m.),3.0,2.0,3,2.0,North,Relatively New,,,1500.0,1.0,0.0,0.0,1.0,0.0,1.0,94.0,500.0
 flat,orris aster court,sector 85,0.69,5219.0,1322.0,Super Built up area 1312(121.89 sq.m.)Built Up area: 1075 sq.ft. (99.87 sq.m.)Carpet area: 975 sq.ft. (90.58 sq.m.),2.0,2.0,2,5.0,South-West,Relatively New,1312.0,1075.0,975.0,0.0,0.0,0.0,0.0,0.0,0.0,37.0,661.0
@@ -1377,7 +1377,7 @@ flat,emaar mgf emerald estate,sector 65,1.3,20602.0,631.0,Super Built up area 10
 flat,smart world gems,sector 89,0.95,8903.0,1067.0,Super Built up area 1067(99.13 sq.m.)Carpet area: 578 sq.ft. (53.7 sq.m.),2.0,2.0,2,1.0,East,Under Construction,1067.0,,578.0,1.0,0.0,0.0,0.0,0.0,0.0,122.0,533.5
 flat,shree vardhman victoria,sector 70,1.25,9259.0,1350.0,Super Built up area 1350(125.42 sq.m.),2.0,2.0,3,3.0,East,Relatively New,1350.0,,,1.0,0.0,0.0,0.0,0.0,0.0,43.0,675.0
 flat,orchid petals,sector 49,2.23,10969.0,2033.0,Super Built up area 2033(188.87 sq.m.),3.0,3.0,3,14.0,North,Relatively New,2033.0,,,0.0,0.0,0.0,0.0,1.0,0.0,40.0,677.6666666666666
-flat,vatika gurgaon,sector 83,1.25,7812.0,1600.0,Super Built up area 2390(222.04 sq.m.)Carpet area: 1600 sq.ft. (148.64 sq.m.),4.0,4.0,3,12.0,South-West,Moderately Old,2390.0,,1600.0,0.0,1.0,0.0,0.0,0.0,0.0,103.0,400.0
+flat,vatika Gurugram,sector 83,1.25,7812.0,1600.0,Super Built up area 2390(222.04 sq.m.)Carpet area: 1600 sq.ft. (148.64 sq.m.),4.0,4.0,3,12.0,South-West,Moderately Old,2390.0,,1600.0,0.0,1.0,0.0,0.0,0.0,0.0,103.0,400.0
 flat,godrej,sector 79,2.0,8453.0,2366.0,Carpet area: 2366 (219.81 sq.m.),3.0,4.0,3+,2.0,North-East,Relatively New,,,2366.0,0.0,1.0,0.0,0.0,0.0,1.0,156.0,788.6666666666666
 flat,parsvnath green ville,sector 48,2.5,12821.0,1950.0,Carpet area: 1950 (181.16 sq.m.),4.0,5.0,3,1.0,South-East,Moderately Old,,,1950.0,0.0,0.0,0.0,0.0,1.0,1.0,49.0,487.5
 flat,m3m merlin,sector 67,3.4,14419.0,2358.0,Super Built up area 2358(219.07 sq.m.)Carpet area: 1900 sq.ft. (176.52 sq.m.),3.0,4.0,3,15.0,South,Relatively New,2358.0,,1900.0,0.0,1.0,0.0,0.0,0.0,1.0,110.0,786.0
@@ -1391,7 +1391,7 @@ flat,orchid petals,sector 49,2.38,11498.0,2070.0,Super Built up area 2070(192.31
 house,independent,sector 2,2.5,16057.0,1557.0,Plot area 173(144.65 sq.m.),4.0,4.0,2,4.0,West,Old Property,,1557.0,,0.0,0.0,0.0,0.0,0.0,0.0,17.0,389.25
 flat,m3m woodshire,sector 107,1.7,6142.0,2768.0,Super Built up area 2768(257.16 sq.m.),4.0,5.0,3+,9.0,South,Relatively New,2768.0,,,0.0,1.0,0.0,0.0,0.0,0.0,79.0,692.0
 flat,shree arihant apartment,sector 54,1.55,8611.0,1800.0,Super Built up area 2000(185.81 sq.m.)Built Up area: 1900 sq.ft. (176.52 sq.m.)Carpet area: 1800 sq.ft. (167.23 sq.m.),3.0,3.0,3,3.0,North-East,Moderately Old,2000.0,1900.0,1800.0,0.0,1.0,0.0,0.0,0.0,1.0,109.0,600.0
-flat,vatika sovereign next sector-82 a gurgaon,sector 82a,2.91,6700.0,4343.0,Super Built up area 4350(404.13 sq.m.)Carpet area: 3480 sq.ft. (323.3 sq.m.),4.0,4.0,3,6.0,East,Under Construction,4350.0,,3480.0,1.0,1.0,1.0,0.0,0.0,1.0,79.0,1085.75
+flat,vatika sovereign next sector-82 a Gurugram,sector 82a,2.91,6700.0,4343.0,Super Built up area 4350(404.13 sq.m.)Carpet area: 3480 sq.ft. (323.3 sq.m.),4.0,4.0,3,6.0,East,Under Construction,4350.0,,3480.0,1.0,1.0,1.0,0.0,0.0,1.0,79.0,1085.75
 house,independent,sector 57,4.75,28788.0,1650.0,Plot area 1600(148.64 sq.m.)Built Up area: 1700 sq.ft. (157.94 sq.m.)Carpet area: 1650 sq.ft. (153.29 sq.m.),3.0,3.0,3,2.0,North-West,Moderately Old,,1700.0,1650.0,0.0,0.0,1.0,0.0,0.0,1.0,96.0,550.0
 flat,eldeco accolade,sohna road,0.73,5753.0,1269.0,Super Built up area 1269(117.89 sq.m.),2.0,2.0,3,9.0,North-East,Relatively New,1269.0,,,0.0,0.0,0.0,1.0,0.0,0.0,103.0,634.5
 flat,shapoorji pallonji joyville gurugram,sector 102,2.04,14069.0,1450.0,Super Built up area 1852(172.06 sq.m.)Carpet area: 1450 sq.ft. (134.71 sq.m.),3.0,3.0,3+,1.0,South,Relatively New,1852.0,,1450.0,0.0,0.0,0.0,0.0,0.0,0.0,72.0,483.3333333333333
@@ -1539,7 +1539,7 @@ flat,bptp astaire gardens,sector 70a,1.2,7059.0,1700.0,Super Built up area 1700(
 flat,la vida by tata housing,sector 113,1.85,11716.0,1579.0,Super Built up area 1579(146.69 sq.m.),3.0,2.0,2,7.0,East,New Property,1579.0,,,0.0,0.0,0.0,0.0,0.0,0.0,13.0,526.3333333333334
 flat,m3m antalya hills,sector 79,1.15,7497.0,1534.0,Super Built up area 1534(142.51 sq.m.)Built Up area: 1200 sq.ft. (111.48 sq.m.)Carpet area: 1103 sq.ft. (102.47 sq.m.),3.0,3.0,3+,1.0,,Under Construction,1534.0,1200.0,1103.0,1.0,0.0,0.0,0.0,0.0,0.0,51.0,511.3333333333333
 flat,orchid petals,sector 49,2.45,11887.0,2061.0,Super Built up area 2061(191.47 sq.m.),3.0,3.0,3,0.0,North-East,Relatively New,2061.0,,,1.0,0.0,0.0,0.0,0.0,0.0,49.0,687.0
-flat,vatika gurgaon,sector 83,1.25,6313.0,1980.0,Super Built up area 1980(183.95 sq.m.)Built Up area: 1700 sq.ft. (157.94 sq.m.)Carpet area: 1400 sq.ft. (130.06 sq.m.),3.0,3.0,2,12.0,North,Moderately Old,1980.0,1700.0,1400.0,0.0,1.0,0.0,0.0,0.0,0.0,95.0,660.0
+flat,vatika Gurugram,sector 83,1.25,6313.0,1980.0,Super Built up area 1980(183.95 sq.m.)Built Up area: 1700 sq.ft. (157.94 sq.m.)Carpet area: 1400 sq.ft. (130.06 sq.m.),3.0,3.0,2,12.0,North,Moderately Old,1980.0,1700.0,1400.0,0.0,1.0,0.0,0.0,0.0,0.0,95.0,660.0
 flat,pyramid elite,sector 86,0.45,7745.0,581.0,Carpet area: 581.41 (54.01 sq.m.),2.0,2.0,1,4.0,,Under Construction,,,581.3582389999999,0.0,0.0,0.0,0.0,0.0,0.0,66.0,290.5
 house,ansals florence villa,sector 57,6.0,22222.0,2700.0,Plot area 300(250.84 sq.m.),4.0,5.0,2,2.0,,Old Property,,2700.0,,0.0,1.0,0.0,1.0,0.0,1.0,20.0,675.0
 flat,ireo skyon,sector 60,3.6,12816.0,2809.0,Super Built up area 2809(260.96 sq.m.)Carpet area: 2400 sq.ft. (222.97 sq.m.),4.0,5.0,3,24.0,North-East,Relatively New,2809.0,,2400.0,0.0,1.0,0.0,0.0,0.0,1.0,49.0,702.25
@@ -1555,7 +1555,7 @@ house,ss aaron ville,sector 49,6.5,18808.0,3456.0,Plot area 384(321.07 sq.m.),5.
 flat,m3m soulitude,sector 89,1.25,8784.0,1423.0,Built Up area: 1423 (132.2 sq.m.)Carpet area: 1190 sq.ft. (110.55 sq.m.),3.0,3.0,0,4.0,,Undefined,,1423.0,1190.0,0.0,0.0,0.0,0.0,0.0,0.0,61.0,474.3333333333333
 house,ardee city,sector 52,2.25,16071.0,1400.0,Plot area 2160(200.67 sq.m.)Built Up area: 1800 sq.ft. (167.23 sq.m.)Carpet area: 1400 sq.ft. (130.06 sq.m.),3.0,3.0,3,4.0,South-East,New Property,,1800.0,1400.0,0.0,1.0,0.0,0.0,0.0,1.0,22.0,466.6666666666667
 flat,indiabulls enigma,sector 110,3.4,10000.0,3400.0,Super Built up area 3400(315.87 sq.m.),4.0,5.0,3,3.0,East,Relatively New,3400.0,,,0.0,1.0,1.0,0.0,0.0,0.0,90.0,850.0
-flat,emaar gurgaon greens,sector 102,1.35,8182.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,5.0,North-West,Relatively New,1650.0,,1022.58,0.0,1.0,0.0,0.0,0.0,0.0,119.0,550.0
+flat,emaar Gurugram greens,sector 102,1.35,8182.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,5.0,North-West,Relatively New,1650.0,,1022.58,0.0,1.0,0.0,0.0,0.0,0.0,119.0,550.0
 flat,la vida by tata housing,sector 113,1.32,10345.0,1276.0,Super Built up area 1276(118.54 sq.m.)Built Up area: 1199 sq.ft. (111.39 sq.m.)Carpet area: 1099 sq.ft. (102.1 sq.m.),2.0,2.0,2,3.0,North-East,Relatively New,1276.0,1199.0,1099.0,0.0,0.0,0.0,0.0,0.0,0.0,49.0,638.0
 house,eros rosewood city,sector 49,1.6,3500.0,4572.0,Plot area 60(50.17 sq.m.),4.0,4.0,3,4.0,East,New Property,,60.0,,0.0,0.0,0.0,0.0,0.0,1.0,27.0,1143.0
 house,independent,sector 25,6.5,36111.0,1800.0,Plot area 200(167.23 sq.m.),4.0,3.0,3,3.0,,Moderately Old,,1800.0,,1.0,0.0,0.0,1.0,0.0,0.0,19.0,450.0
@@ -1584,7 +1584,7 @@ house,house number b-34,sector 5,0.8,8889.0,900.0,Plot area 900(83.61 sq.m.)Buil
 flat,dlf new town heights,sector 90,1.95,7151.0,2727.0,Super Built up area 2727(253.35 sq.m.)Carpet area: 2200 sq.ft. (204.39 sq.m.),4.0,4.0,3+,24.0,North-East,Relatively New,2727.0,,2200.0,0.0,1.0,1.0,0.0,0.0,0.0,174.0,681.75
 flat,the center court,sector 88a,2.1,12174.0,1725.0,Super Built up area 2175(202.06 sq.m.)Built Up area: 1745 sq.ft. (162.12 sq.m.)Carpet area: 1725 sq.ft. (160.26 sq.m.),4.0,4.0,3,0.0,East,New Property,2175.0,1745.0,1725.0,1.0,1.0,0.0,0.0,0.0,0.0,142.0,431.25
 flat,shapoorji pallonji joyville gurugram,sector 102,1.24,10206.0,1215.0,Super Built up area 1215(112.88 sq.m.),2.0,2.0,2,10.0,East,Relatively New,1215.0,,,0.0,0.0,0.0,0.0,0.0,0.0,141.0,607.5
-flat,vatika gurgaon,sector 83,0.84,6747.0,1245.0,Super Built up area 1245(115.66 sq.m.),2.0,2.0,2,7.0,East,Moderately Old,1245.0,,,0.0,0.0,0.0,0.0,0.0,1.0,157.0,622.5
+flat,vatika Gurugram,sector 83,0.84,6747.0,1245.0,Super Built up area 1245(115.66 sq.m.),2.0,2.0,2,7.0,East,Moderately Old,1245.0,,,0.0,0.0,0.0,0.0,0.0,1.0,157.0,622.5
 flat,vatika sovereign park,sector 99,2.45,8813.0,2780.0,Super Built up area 2780(258.27 sq.m.),3.0,4.0,3,1.0,East,New Property,2780.0,,,0.0,1.0,0.0,0.0,0.0,1.0,165.0,926.6666666666666
 flat,ss the leaf,sector 85,1.87,7779.0,2404.0,Super Built up area 2408(223.71 sq.m.)Built Up area: 2225 sq.ft. (206.71 sq.m.)Carpet area: 2175 sq.ft. (202.06 sq.m.),3.0,4.0,3,7.0,North-East,Relatively New,2408.0,2225.0,2175.0,0.0,0.0,0.0,0.0,0.0,0.0,49.0,801.3333333333334
 house,"nirmal enclave, maruti kunj road",sector 11,0.24,5333.0,450.0,Plot area 450(41.81 sq.m.),2.0,2.0,0,2.0,North,Relatively New,,450.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,225.0
@@ -1607,7 +1607,7 @@ flat,raheja vedaanta,sector 108,0.8,4080.0,1961.0,Super Built up area 1838(170.7
 flat,m3m golfestate,sector 65,4.94,16234.0,3043.0,Super Built up area 3043(282.7 sq.m.),3.0,4.0,3,15.0,North-East,Moderately Old,3043.0,,,0.0,1.0,0.0,0.0,0.0,0.0,165.0,1014.3333333333334
 house,international city by sobha phase 2,sector 109,9.4,26111.0,3600.0,Plot area 400(334.45 sq.m.),5.0,6.0,3+,2.0,North-East,Relatively New,,3600.0,,1.0,1.0,1.0,1.0,0.0,1.0,147.0,720.0
 flat,shree vardhman victoria,sector 70,1.63,8359.0,1950.0,Super Built up area 1950(181.16 sq.m.)Carpet area: 1161 sq.ft. (107.86 sq.m.),3.0,3.0,3,5.0,East,New Property,1950.0,,1161.0,0.0,1.0,0.0,0.0,1.0,0.0,49.0,650.0
-flat,laxmi apartment sector 99a gurgaon,sector 99,0.3,4615.0,650.0,Super Built up area 650(60.39 sq.m.)Carpet area: 550 sq.ft. (51.1 sq.m.),2.0,2.0,1,4.0,,New Property,650.0,,550.0,0.0,0.0,0.0,0.0,0.0,0.0,44.0,325.0
+flat,laxmi apartment sector 99a Gurugram,sector 99,0.3,4615.0,650.0,Super Built up area 650(60.39 sq.m.)Carpet area: 550 sq.ft. (51.1 sq.m.),2.0,2.0,1,4.0,,New Property,650.0,,550.0,0.0,0.0,0.0,0.0,0.0,0.0,44.0,325.0
 flat,sare crescent parc,sector 92,0.51,4080.0,1250.0,Super Built up area 1250(116.13 sq.m.),3.0,2.0,2,2.0,North,Relatively New,1250.0,,,0.0,0.0,0.0,0.0,0.0,0.0,72.0,416.6666666666667
 flat,shapoorji pallonji joyville gurugram,sector 102,1.28,10535.0,1215.0,Super Built up area 1215(112.88 sq.m.),2.0,2.0,3,10.0,East,Relatively New,1215.0,,,0.0,0.0,0.0,0.0,0.0,0.0,49.0,607.5
 flat,signature global park,sohna road,0.54,7200.0,750.0,Carpet area: 750 (69.68 sq.m.),2.0,2.0,2,4.0,North-East,Under Construction,,,750.0,0.0,0.0,0.0,0.0,0.0,0.0,111.0,375.0
@@ -1618,7 +1618,7 @@ flat,green court,sector 90,0.45,7188.0,626.0,Carpet area: 626 (58.16 sq.m.),2.0,
 flat,bestech park view sanskruti,sector 92,1.83,7871.0,2325.0,Super Built up area 2325(216 sq.m.),4.0,3.0,3,8.0,East,New Property,2325.0,,,0.0,1.0,0.0,0.0,0.0,0.0,128.0,581.25
 house,vatika india next,sector 82,6.8,20988.0,3240.0,Plot area 360(301.01 sq.m.),4.0,4.0,3+,3.0,North-East,Relatively New,,3240.0,,0.0,1.0,0.0,0.0,0.0,2.0,110.0,810.0
 flat,m3m merlin,sector 67,3.4,14419.0,2358.0,Super Built up area 2358(219.07 sq.m.)Carpet area: 1708 sq.ft. (158.68 sq.m.),3.0,4.0,3,16.0,North-West,Relatively New,2358.0,,1708.0,0.0,1.0,0.0,0.0,0.0,1.0,174.0,786.0
-flat,emaar gurgaon greens,sector 102,1.4,8485.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,3.0,East,Relatively New,1650.0,,1022.58,0.0,1.0,0.0,0.0,0.0,0.0,60.0,550.0
+flat,emaar Gurugram greens,sector 102,1.4,8485.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,3.0,East,Relatively New,1650.0,,1022.58,0.0,1.0,0.0,0.0,0.0,0.0,60.0,550.0
 flat,bptp pedestal,sector 70a,1.6,10159.0,1575.0,Carpet area: 1575 (146.32 sq.m.),3.0,3.0,3,2.0,North-East,New Property,,,1575.0,0.0,1.0,0.0,0.0,1.0,0.0,77.0,525.0
 flat,m3m woodshire,sector 107,0.8,5857.0,1366.0,Super Built up area 1366(126.91 sq.m.),2.0,2.0,3+,14.0,,New Property,1366.0,,,0.0,0.0,0.0,0.0,0.0,0.0,67.0,683.0
 flat,vatika the seven lamps,sector 82,1.28,6819.0,1877.0,Super Built up area 1877(174.38 sq.m.)Built Up area: 1800 sq.ft. (167.23 sq.m.)Carpet area: 1500 sq.ft. (139.35 sq.m.),3.0,3.0,3,3.0,North,Relatively New,1877.0,1800.0,1500.0,1.0,0.0,0.0,0.0,0.0,1.0,165.0,625.6666666666666
@@ -1669,7 +1669,7 @@ flat,smart world orchard,sector 61,1.55,13478.0,1150.0,Super Built up area 1150(
 flat,godrej nature plus,sector 33,1.35,8671.0,1557.0,Super Built up area 1557(144.65 sq.m.),3.0,2.0,3+,17.0,,New Property,1557.0,,,0.0,0.0,0.0,0.0,0.0,0.0,38.0,519.0
 flat,godrej nature plus,sector 33,1.35,8232.0,1640.0,Super Built up area 1640(152.36 sq.m.),3.0,2.0,3+,7.0,North-East,Under Construction,1640.0,,,0.0,0.0,0.0,1.0,0.0,0.0,49.0,546.6666666666666
 flat,shapoorji pallonji joyville gurugram,sector 102,1.8,10638.0,1692.0,Super Built up area 1692(157.19 sq.m.),3.0,3.0,3,5.0,North,Relatively New,1692.0,,,0.0,0.0,0.0,0.0,0.0,0.0,49.0,564.0
-flat,emaar gurgaon greens,sector 102,1.3,7879.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1155 sq.ft. (107.3 sq.m.),3.0,3.0,3,7.0,North-East,Relatively New,1650.0,,1155.0,0.0,1.0,0.0,0.0,0.0,0.0,93.0,550.0
+flat,emaar Gurugram greens,sector 102,1.3,7879.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1155 sq.ft. (107.3 sq.m.),3.0,3.0,3,7.0,North-East,Relatively New,1650.0,,1155.0,0.0,1.0,0.0,0.0,0.0,0.0,93.0,550.0
 flat,bestech altura,sector 79,1.72,8000.0,2150.0,Super Built up area 2150(199.74 sq.m.)Carpet area: 1300 sq.ft. (120.77 sq.m.),3.0,4.0,3+,5.0,North-East,Relatively New,2150.0,,1300.0,0.0,1.0,0.0,0.0,0.0,1.0,174.0,716.6666666666666
 flat,signature global solera,sector 107,0.27,5521.0,489.0,Carpet area: 489 (45.43 sq.m.),2.0,2.0,2,0.0,North-East,Relatively New,,,489.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0,244.5
 flat,dlf park place,sector 54,6.75,24963.0,2704.0,Super Built up area 2704(251.21 sq.m.)Carpet area: 1534 sq.ft. (142.51 sq.m.),4.0,4.0,2,8.0,North,Moderately Old,2704.0,,1534.0,0.0,1.0,0.0,0.0,0.0,2.0,135.0,676.0
@@ -1726,7 +1726,7 @@ flat,ss the leaf,sector 85,1.93,8075.0,2390.0,Super Built up area 2408(223.71 sq
 flat,ambience creacions,sector 22,2.79,15000.0,1860.0,Super Built up area 1860(172.8 sq.m.)Carpet area: 1300 sq.ft. (120.77 sq.m.),3.0,3.0,3,13.0,East,New Property,1860.0,,1300.0,0.0,0.0,0.0,0.0,0.0,2.0,158.0,620.0
 flat,sbr apartment,manesar,0.68,4456.0,1526.0,Built Up area: 1526 (141.77 sq.m.),3.0,3.0,3,2.0,,Moderately Old,,1526.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,508.6666666666667
 house,independent,sector 2,5.0,15385.0,3250.0,Carpet area: 3250 (301.93 sq.m.),6.0,6.0,2,1.0,South,Undefined,,,3250.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,541.6666666666666
-flat,vatika gurgaon,sector 83,0.95,6574.0,1445.0,Super Built up area 1445(134.24 sq.m.)Built Up area: 1300 sq.ft. (120.77 sq.m.)Carpet area: 1200 sq.ft. (111.48 sq.m.),2.0,2.0,3,5.0,South,Relatively New,1445.0,1300.0,1200.0,0.0,0.0,0.0,0.0,0.0,1.0,96.0,722.5
+flat,vatika Gurugram,sector 83,0.95,6574.0,1445.0,Super Built up area 1445(134.24 sq.m.)Built Up area: 1300 sq.ft. (120.77 sq.m.)Carpet area: 1200 sq.ft. (111.48 sq.m.),2.0,2.0,3,5.0,South,Relatively New,1445.0,1300.0,1200.0,0.0,0.0,0.0,0.0,0.0,1.0,96.0,722.5
 flat,mrg skyline,sector 106,1.82,13392.0,1359.0,Built Up area: 1359 (126.26 sq.m.)Carpet area: 952 sq.ft. (88.44 sq.m.),3.0,2.0,2,4.0,East,Undefined,,1359.0,952.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,453.0
 flat,m3m skywalk,sector 74,1.54,10815.0,1424.0,Super Built up area 1424(132.29 sq.m.)Built Up area: 1200 sq.ft. (111.48 sq.m.)Carpet area: 1139 sq.ft. (105.82 sq.m.),2.0,2.0,3+,15.0,South-East,Relatively New,1424.0,1200.0,1139.0,0.0,0.0,0.0,0.0,1.0,0.0,137.0,712.0
 flat,greenopolis,sector 89,0.9,4700.0,1915.0,Built Up area: 1910 (177.44 sq.m.),3.0,3.0,0,14.0,,Under Construction,,1910.0,,0.0,0.0,0.0,0.0,0.0,0.0,67.0,638.3333333333334
@@ -1760,7 +1760,7 @@ flat,emaar mgf palm hills,sector 77,1.25,8621.0,1450.0,Carpet area: 1450 (134.71
 flat,ss the leaf,sector 85,1.99,8660.0,2298.0,Super Built up area 2408(223.71 sq.m.)Built Up area: 2398 sq.ft. (222.78 sq.m.)Carpet area: 2298 sq.ft. (213.49 sq.m.),3.0,4.0,3+,17.0,East,Relatively New,2408.0,2398.0,2298.0,0.0,1.0,0.0,0.0,0.0,1.0,174.0,766.0
 flat,experion the heartsong,sector 108,1.68,8387.0,2003.0,Super Built up area 2003(186.08 sq.m.)Built Up area: 1338.29 sq.ft. (124.33 sq.m.)Carpet area: 986.41 sq.ft. (91.64 sq.m.),3.0,3.0,3+,4.0,East,Relatively New,2003.0,1338.29,986.41,1.0,1.0,0.0,0.0,0.0,1.0,86.0,667.6666666666666
 flat,eldeco accolade,sohna road,0.78,6171.0,1264.0,Super Built up area 1264(117.43 sq.m.),2.0,2.0,2,3.0,,Relatively New,1264.0,,,0.0,0.0,0.0,0.0,0.0,0.0,72.0,632.0
-flat,alpha corp gurgaonone,sector 84,1.49,7590.0,1963.0,Super Built up area 1963(182.37 sq.m.)Carpet area: 1700 sq.ft. (157.94 sq.m.),3.0,3.0,3,6.0,South-East,Relatively New,1963.0,,1700.0,0.0,1.0,0.0,0.0,0.0,0.0,28.0,654.3333333333334
+flat,alpha corp Gurugramone,sector 84,1.49,7590.0,1963.0,Super Built up area 1963(182.37 sq.m.)Carpet area: 1700 sq.ft. (157.94 sq.m.),3.0,3.0,3,6.0,South-East,Relatively New,1963.0,,1700.0,0.0,1.0,0.0,0.0,0.0,0.0,28.0,654.3333333333334
 flat,unitech greenwood city,sector 45,2.4,12346.0,1944.0,Super Built up area 216(180.6 sq.m.),3.0,3.0,2,1.0,North-West,New Property,216.0,,,0.0,1.0,0.0,0.0,0.0,1.0,19.0,648.0
 flat,emaar mgf emerald floors premier,sector 65,2.9,14684.0,1975.0,Carpet area: 1975 (183.48 sq.m.),4.0,4.0,0,0.0,North,Relatively New,,,1975.0,0.0,0.0,1.0,0.0,0.0,0.0,50.0,493.75
 flat,experion the heartsong,sector 108,2.29,8240.0,2779.0,Built Up area: 2779 (258.18 sq.m.),4.0,5.0,3+,8.0,South,Relatively New,,2779.0,,0.0,1.0,0.0,0.0,0.0,1.0,95.0,694.75
@@ -1881,8 +1881,8 @@ flat,signature global park,sohna road,0.54,6331.0,853.0,Carpet area: 845 (78.5 s
 flat,dlf the ultima,sector 81,2.5,11726.0,2132.0,Super Built up area 2132(198.07 sq.m.)Built Up area: 1700 sq.ft. (157.94 sq.m.)Carpet area: 1350 sq.ft. (125.42 sq.m.),3.0,3.0,2,20.0,West,Relatively New,2132.0,1700.0,1350.0,0.0,1.0,0.0,0.0,0.0,2.0,174.0,710.6666666666666
 flat,godrej habitat,sector 3,1.25,8657.0,1444.0,Super Built up area 1444(134.15 sq.m.)Carpet area: 913 sq.ft. (84.82 sq.m.),2.0,2.0,3,14.0,,Under Construction,1444.0,,913.0,0.0,0.0,0.0,0.0,0.0,0.0,36.0,722.0
 flat,oriental valley chs,sector 9,1.5,9091.0,1650.0,Carpet area: 1650 (153.29 sq.m.),4.0,3.0,3+,8.0,,Relatively New,,,1650.0,0.0,0.0,0.0,0.0,0.0,1.0,8.0,412.5
-flat,emaar gurgaon greens,sector 102,1.52,9212.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,7.0,North-West,Relatively New,1650.0,,1022.58,0.0,1.0,0.0,0.0,0.0,1.0,137.0,550.0
-flat,vatika gurgaon,sector 83,0.83,6667.0,1245.0,Super Built up area 1245(115.66 sq.m.)Built Up area: 1154 sq.ft. (107.21 sq.m.)Carpet area: 945 sq.ft. (87.79 sq.m.),2.0,2.0,2,12.0,North,Relatively New,1245.0,1154.0,945.0,0.0,0.0,0.0,1.0,0.0,0.0,165.0,622.5
+flat,emaar Gurugram greens,sector 102,1.52,9212.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,7.0,North-West,Relatively New,1650.0,,1022.58,0.0,1.0,0.0,0.0,0.0,1.0,137.0,550.0
+flat,vatika Gurugram,sector 83,0.83,6667.0,1245.0,Super Built up area 1245(115.66 sq.m.)Built Up area: 1154 sq.ft. (107.21 sq.m.)Carpet area: 945 sq.ft. (87.79 sq.m.),2.0,2.0,2,12.0,North,Relatively New,1245.0,1154.0,945.0,0.0,0.0,0.0,1.0,0.0,0.0,165.0,622.5
 flat,experion the heartsong,sector 108,3.0,18394.0,1631.0,Super Built up area 2779(258.18 sq.m.)Built Up area: 2204.25 sq.ft. (204.78 sq.m.)Carpet area: 1631.07 sq.ft. (151.53 sq.m.),4.0,5.0,3+,2.0,South-West,Relatively New,2779.0,2204.25,1631.07,0.0,1.0,0.0,0.0,0.0,2.0,149.0,407.75
 flat,sare crescent parc,sector 92,0.95,5013.0,1895.0,Built Up area: 1895 (176.05 sq.m.)Carpet area: 1500 sq.ft. (139.35 sq.m.),4.0,5.0,3+,13.0,North,Undefined,,1895.0,1500.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,473.75
 flat,pyramid urban homes 2,sector 86,0.5,9690.0,516.0,Carpet area: 515.57 (47.9 sq.m.),2.0,2.0,2,6.0,,Old Property,,,515.5908099999999,0.0,0.0,0.0,0.0,0.0,0.0,15.0,258.0
@@ -1893,11 +1893,11 @@ flat,godrej aria,sector 79,1.7,7427.0,2289.0,Super Built up area 2289(212.66 sq.
 flat,dlf park place,sector 54,4.86,25920.0,1875.0,Super Built up area 1875(174.19 sq.m.),3.0,4.0,3+,7.0,West,Relatively New,1875.0,,,0.0,1.0,0.0,0.0,0.0,1.0,49.0,625.0
 flat,sare crescent parc royal greens phase 1,sector 92,0.5,5000.0,1000.0,Built Up area: 1000 (92.9 sq.m.)Carpet area: 999 sq.ft. (92.81 sq.m.),2.0,2.0,3,2.0,North-East,Undefined,,1000.0,999.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,500.0
 flat,adani m2k oyster grande,sector 102,2.6,10008.0,2598.0,Super Built up area 2598(241.36 sq.m.),3.0,3.0,3,2.0,North-East,Relatively New,2598.0,,,1.0,1.0,1.0,0.0,0.0,0.0,118.0,866.0
-flat,emaar gurgaon greens,sector 102,1.4,8485.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1200 sq.ft. (111.48 sq.m.),3.0,3.0,3,9.0,South-West,Relatively New,1650.0,,1200.0,0.0,1.0,0.0,0.0,0.0,0.0,49.0,550.0
+flat,emaar Gurugram greens,sector 102,1.4,8485.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1200 sq.ft. (111.48 sq.m.),3.0,3.0,3,9.0,South-West,Relatively New,1650.0,,1200.0,0.0,1.0,0.0,0.0,0.0,0.0,49.0,550.0
 house,independent,sector 26,18.9,41833.0,4518.0,Plot area 502(419.74 sq.m.),6.0,8.0,2,3.0,North-East,Relatively New,,4518.0,,1.0,1.0,1.0,1.0,0.0,1.0,120.0,753.0
 house,independent,sector 17,3.5,24306.0,1440.0,Built Up area: 160 (14.86 sq.m.),2.0,6.0,3+,3.0,North-West,Undefined,,160.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,720.0
 flat,adani m2k oyster grande,sector 102,2.5,7817.0,3198.0,Super Built up area 3198(297.1 sq.m.),4.0,5.0,3+,5.0,South,Relatively New,3198.0,,,0.0,1.0,0.0,0.0,0.0,0.0,76.0,799.5
-flat,"new colony, gurgaon",sector 7,0.8,8097.0,988.0,Carpet area: 990 (91.97 sq.m.),3.0,2.0,1,4.0,North-East,Relatively New,,,990.0,0.0,0.0,0.0,0.0,0.0,1.0,69.0,329.3333333333333
+flat,"new colony, Gurugram",sector 7,0.8,8097.0,988.0,Carpet area: 990 (91.97 sq.m.),3.0,2.0,1,4.0,North-East,Relatively New,,,990.0,0.0,0.0,0.0,0.0,0.0,1.0,69.0,329.3333333333333
 flat,hero homes,sector 104,1.75,10361.0,1689.0,Super Built up area 1689(156.91 sq.m.),3.0,3.0,3,2.0,,Under Construction,1689.0,,,0.0,0.0,0.0,0.0,0.0,0.0,30.0,563.0
 flat,mahindra luminare,sector 59,5.8,19174.0,3025.0,Carpet area: 3025 (281.03 sq.m.),3.0,4.0,3,16.0,North-East,New Property,,,3025.0,0.0,1.0,0.0,0.0,0.0,1.0,49.0,1008.3333333333334
 flat,awho sispal vihar,sector 49,2.0,7262.0,2754.0,Super Built up area 2754(255.85 sq.m.),4.0,3.0,3+,4.0,,Old Property,2754.0,,,0.0,0.0,0.0,0.0,0.0,0.0,65.0,688.5
@@ -1920,7 +1920,7 @@ house,international city by sobha phase 2,sector 109,10.0,27778.0,3600.0,Plot ar
 flat,signature global city,sector 37d,0.8,8421.0,950.0,Super Built up area 950(88.26 sq.m.),2.0,2.0,2,2.0,,Under Construction,950.0,,,0.0,0.0,0.0,0.0,0.0,0.0,42.0,475.0
 flat,conscient elevate,sector 59,4.02,17501.0,2297.0,Carpet area: 2295 (213.21 sq.m.),3.0,3.0,1,3.0,,Under Construction,,,2295.0,0.0,0.0,0.0,0.0,0.0,0.0,31.0,765.6666666666666
 flat,indiabulls centrum park,sector 103,2.4,8348.0,2875.0,Super Built up area 2875(267.1 sq.m.)Built Up area: 2456 sq.ft. (228.17 sq.m.)Carpet area: 2100 sq.ft. (195.1 sq.m.),4.0,6.0,3+,15.0,North-East,Relatively New,2875.0,2456.0,2100.0,0.0,1.0,0.0,0.0,0.0,0.0,156.0,718.75
-flat,vatika gurgaon,sector 83,1.12,6455.0,1735.0,Super Built up area 1735(161.19 sq.m.)Built Up area: 1500 sq.ft. (139.35 sq.m.)Carpet area: 1400 sq.ft. (130.06 sq.m.),3.0,3.0,2,17.0,South,Moderately Old,1735.0,1500.0,1400.0,0.0,0.0,0.0,0.0,0.0,1.0,111.0,578.3333333333334
+flat,vatika Gurugram,sector 83,1.12,6455.0,1735.0,Super Built up area 1735(161.19 sq.m.)Built Up area: 1500 sq.ft. (139.35 sq.m.)Carpet area: 1400 sq.ft. (130.06 sq.m.),3.0,3.0,2,17.0,South,Moderately Old,1735.0,1500.0,1400.0,0.0,0.0,0.0,0.0,0.0,1.0,111.0,578.3333333333334
 flat,antriksh heights,sector 84,1.05,5012.0,2095.0,Super Built up area 2095(194.63 sq.m.),4.0,4.0,3+,3.0,North,New Property,2095.0,,,1.0,0.0,0.0,0.0,0.0,0.0,66.0,523.75
 flat,cghs vidya enclave,sector 56,1.7,10968.0,1550.0,Super Built up area 1600(148.64 sq.m.)Carpet area: 1550 sq.ft. (144 sq.m.),3.0,2.0,3,6.0,,Old Property,1600.0,,1550.0,0.0,0.0,1.0,0.0,0.0,0.0,101.0,516.6666666666666
 flat,ss,sector 85,2.1,7468.0,2812.0,Super Built up area 2812(261.24 sq.m.)Built Up area: 2600 sq.ft. (241.55 sq.m.)Carpet area: 2400 sq.ft. (222.97 sq.m.),4.0,4.0,3,2.0,North-West,Relatively New,2812.0,2600.0,2400.0,0.0,0.0,0.0,0.0,0.0,0.0,49.0,703.0
@@ -1980,7 +1980,7 @@ flat,smart world gems,sector 89,1.13,8503.0,1329.0,Carpet area: 1326 (123.19 sq.
 flat,godrej summit,sector 104,0.98,5950.0,1647.0,Super Built up area 1647(153.01 sq.m.),3.0,3.0,3,12.0,East,Relatively New,1647.0,,,0.0,0.0,0.0,0.0,1.0,0.0,79.0,549.0
 flat,dlf regal gardens,sector 90,1.29,9021.0,1430.0,Super Built up area 1702(158.12 sq.m.)Built Up area: 1540 sq.ft. (143.07 sq.m.)Carpet area: 1430 sq.ft. (132.85 sq.m.),3.0,3.0,3,7.0,East,Relatively New,1702.0,1540.0,1430.0,1.0,0.0,0.0,0.0,0.0,0.0,174.0,476.6666666666667
 flat,gls arawali homes,sohna road,0.3,6237.0,481.0,Super Built up area 567(52.68 sq.m.)Carpet area: 480.53 sq.ft. (44.64 sq.m.),2.0,2.0,2,4.0,East,Relatively New,567.0,,480.53,0.0,0.0,0.0,0.0,0.0,2.0,120.0,240.5
-flat,alpha corp gurgaonone,sector 84,2.24,6523.0,3434.0,Super Built up area 3434(319.03 sq.m.)Carpet area: 2900 sq.ft. (269.42 sq.m.),4.0,4.0,3,12.0,West,Relatively New,3434.0,,2900.0,0.0,1.0,0.0,0.0,0.0,0.0,20.0,858.5
+flat,alpha corp Gurugramone,sector 84,2.24,6523.0,3434.0,Super Built up area 3434(319.03 sq.m.)Carpet area: 2900 sq.ft. (269.42 sq.m.),4.0,4.0,3,12.0,West,Relatively New,3434.0,,2900.0,0.0,1.0,0.0,0.0,0.0,0.0,20.0,858.5
 flat,central park flower valley,sector 33,2.15,13522.0,1590.0,Super Built up area 1590(147.72 sq.m.),3.0,3.0,3+,1.0,,New Property,1590.0,,,0.0,0.0,0.0,0.0,0.0,0.0,31.0,530.0
 flat,ats triumph,sector 104,2.52,8000.0,3150.0,Super Built up area 3150(292.64 sq.m.)Built Up area: 2800 sq.ft. (260.13 sq.m.)Carpet area: 2400 sq.ft. (222.97 sq.m.),4.0,4.0,3+,19.0,North-East,Relatively New,3150.0,2800.0,2400.0,0.0,1.0,1.0,0.0,0.0,1.0,156.0,787.5
 house,independent,sector 2,0.7,7778.0,900.0,Built Up area: 900 (83.61 sq.m.),1.0,1.0,0,1.0,,Undefined,,900.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,900.0
@@ -1994,7 +1994,7 @@ flat,emaar digihomes,sector 62,2.1,14257.0,1473.0,Super Built up area 1508.26(14
 flat,pyramid urban homes 2,sector 86,0.43,8583.0,501.0,Carpet area: 501 (46.54 sq.m.),2.0,2.0,1,6.0,North-East,New Property,,,501.0,0.0,0.0,0.0,0.0,1.0,0.0,72.0,250.5
 flat,the close south,sector 50,3.25,12810.0,2537.0,Carpet area: 2537 (235.7 sq.m.),3.0,4.0,3+,4.0,South-East,Old Property,,,2537.0,0.0,1.0,0.0,0.0,0.0,1.0,135.0,845.6666666666666
 house,malibu towne,sector 47,8.81,27191.0,3240.0,Plot area 360(301.01 sq.m.),8.0,6.0,3+,3.0,East,Moderately Old,,3240.0,,1.0,1.0,0.0,0.0,1.0,1.0,27.0,405.0
-flat,avl 36 gurgaon,sector 36,0.4,10204.0,392.0,Carpet area: 392 (36.42 sq.m.),1.0,1.0,1,4.0,West,Relatively New,,,392.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,392.0
+flat,avl 36 Gurugram,sector 36,0.4,10204.0,392.0,Carpet area: 392 (36.42 sq.m.),1.0,1.0,1,4.0,West,Relatively New,,,392.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,392.0
 flat,emaar mgf emerald floors premier,sector 65,2.85,14430.0,1975.0,Carpet area: 1975 (183.48 sq.m.),4.0,4.0,3,3.0,North,Relatively New,,,1975.0,1.0,1.0,0.0,0.0,0.0,0.0,28.0,493.75
 house,independent,sector 43,9.85,29642.0,3323.0,Plot area 418(349.5 sq.m.),5.0,5.0,2,3.0,West,Old Property,,418.0,,1.0,1.0,0.0,1.0,0.0,0.0,21.0,664.6
 flat,dlf new town heights,sector 90,1.25,8639.0,1447.0,Carpet area: 1447 (134.43 sq.m.),3.0,4.0,3+,0.0,North-West,Old Property,,,1447.0,0.0,1.0,0.0,0.0,0.0,2.0,31.0,482.3333333333333
@@ -2017,7 +2017,7 @@ house,independent,sector 26,19.0,42222.0,4500.0,Plot area 500(418.06 sq.m.),6.0,
 flat,godrej air,sector 85,2.5,13797.0,1812.0,Carpet area: 18122 (1683.59 sq.m.),4.0,5.0,3+,16.0,North-East,Under Construction,,,1812.0,1.0,0.0,0.0,1.0,1.0,1.0,44.0,453.0
 flat,signature global park,sohna road,0.75,6938.0,1081.0,Built Up area: 1081 (100.43 sq.m.),2.0,2.0,0,1.0,,Undefined,,1081.0,,0.0,0.0,0.0,0.0,0.0,0.0,58.0,540.5
 flat,m3m heights,sector 65,3.0,17996.0,1667.0,Super Built up area 1828(169.83 sq.m.),3.0,3.0,3,20.0,South-East,Under Construction,1828.0,,,0.0,0.0,0.0,0.0,0.0,0.0,60.0,555.6666666666666
-flat,vatika gurgaon,sector 83,1.12,6455.0,1735.0,Super Built up area 1735(161.19 sq.m.)Built Up area: 1200 sq.ft. (111.48 sq.m.)Carpet area: 1126 sq.ft. (104.61 sq.m.),3.0,3.0,2,4.0,South-East,Relatively New,1735.0,1200.0,1126.0,1.0,1.0,1.0,1.0,0.0,1.0,165.0,578.3333333333334
+flat,vatika Gurugram,sector 83,1.12,6455.0,1735.0,Super Built up area 1735(161.19 sq.m.)Built Up area: 1200 sq.ft. (111.48 sq.m.)Carpet area: 1126 sq.ft. (104.61 sq.m.),3.0,3.0,2,4.0,South-East,Relatively New,1735.0,1200.0,1126.0,1.0,1.0,1.0,1.0,0.0,1.0,165.0,578.3333333333334
 flat,bestech park view sanskruti,sector 92,1.42,7760.0,1830.0,Super Built up area 1920(178.37 sq.m.),3.0,3.0,2,10.0,East,Relatively New,1920.0,,,0.0,0.0,0.0,0.0,0.0,0.0,117.0,610.0
 flat,tarc maceo,sector 91,1.9,6975.0,2724.0,Super Built up area 2724(253.07 sq.m.),4.0,4.0,3,9.0,North,Relatively New,2724.0,,,0.0,1.0,0.0,0.0,0.0,0.0,120.0,681.0
 house,unitech espace,sector 50,7.42,34352.0,2160.0,Plot area 2160(200.67 sq.m.)Built Up area: 3200 sq.ft. (297.29 sq.m.),4.0,4.0,3,2.0,West,Old Property,,3200.0,,0.0,0.0,0.0,0.0,0.0,1.0,88.0,540.0
@@ -2037,10 +2037,10 @@ flat,bestech park view ananda,sector 81,1.15,6928.0,1660.0,Super Built up area 1
 house,independent,sector 43,2.1,4250.0,4941.0,Plot area 61(51 sq.m.),10.0,10.0,3+,5.0,West,New Property,,549.0,,0.0,1.0,0.0,0.0,0.0,0.0,20.0,494.1
 house,independent,sector 105,0.65,9028.0,720.0,Plot area 80(66.89 sq.m.),3.0,2.0,1,1.0,East,Relatively New,,720.0,,0.0,0.0,0.0,1.0,1.0,0.0,14.0,240.0
 flat,godrej icon,sector 88a,1.31,8101.0,1617.0,Super Built up area 1617(150.22 sq.m.),2.0,2.0,3+,3.0,North-West,Relatively New,1617.0,,,1.0,0.0,0.0,0.0,0.0,0.0,102.0,808.5
-flat,vatika gurgaon,sector 83,0.75,6024.0,1245.0,Super Built up area 1245(115.66 sq.m.)Built Up area: 1150 sq.ft. (106.84 sq.m.)Carpet area: 1020 sq.ft. (94.76 sq.m.),2.0,2.0,2,19.0,East,Relatively New,1245.0,1150.0,1020.0,0.0,0.0,0.0,0.0,1.0,1.0,105.0,622.5
+flat,vatika Gurugram,sector 83,0.75,6024.0,1245.0,Super Built up area 1245(115.66 sq.m.)Built Up area: 1150 sq.ft. (106.84 sq.m.)Carpet area: 1020 sq.ft. (94.76 sq.m.),2.0,2.0,2,19.0,East,Relatively New,1245.0,1150.0,1020.0,0.0,0.0,0.0,0.0,1.0,1.0,105.0,622.5
 flat,ats triumph,sector 104,1.8,7860.0,2290.0,Carpet area: 2290 (212.75 sq.m.),3.0,4.0,3,14.0,,New Property,,,2290.0,0.0,0.0,0.0,0.0,0.0,0.0,60.0,763.3333333333334
 flat,ats kocoon,sector 109,2.22,10597.0,2095.0,Super Built up area 2095(194.63 sq.m.)Built Up area: 1860 sq.ft. (172.8 sq.m.),3.0,4.0,3,14.0,East,Relatively New,2095.0,1860.0,,1.0,1.0,1.0,1.0,0.0,0.0,45.0,698.3333333333334
-flat,emaar gurgaon greens,sector 102,1.4,8485.0,1650.0,Super Built up area 1650(153.29 sq.m.)Built Up area: 1300 sq.ft. (120.77 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,10.0,East,Relatively New,1650.0,1300.0,1022.58,0.0,1.0,0.0,0.0,0.0,0.0,46.0,550.0
+flat,emaar Gurugram greens,sector 102,1.4,8485.0,1650.0,Super Built up area 1650(153.29 sq.m.)Built Up area: 1300 sq.ft. (120.77 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,10.0,East,Relatively New,1650.0,1300.0,1022.58,0.0,1.0,0.0,0.0,0.0,0.0,46.0,550.0
 house,independent,sector 2,2.55,16378.0,1557.0,Plot area 173(144.65 sq.m.),3.0,3.0,2,2.0,South,Old Property,,1557.0,,0.0,0.0,0.0,0.0,0.0,0.0,8.0,519.0
 house,dlf city plots phase 2,sector 25,10.5,29022.0,3618.0,Plot area 402(37.35 sq.m.),4.0,4.0,2,2.0,East,Old Property,,402.0,,0.0,1.0,0.0,1.0,0.0,1.0,91.0,904.5
 flat,imperia the esfera,sector 37,1.4,5385.0,2600.0,Super Built up area 2600(241.55 sq.m.)Carpet area: 2100 sq.ft. (195.1 sq.m.),4.0,5.0,3,9.0,North,Relatively New,2600.0,,2100.0,1.0,1.0,0.0,1.0,1.0,0.0,49.0,650.0
@@ -2088,7 +2088,7 @@ flat,huda ashok vihar phase,sector 4,0.43,6615.0,650.0,Carpet area: 650 (60.39 s
 flat,deepak minda,manesar,1.25,4715.0,2651.0,Carpet area: 2651 (246.29 sq.m.),4.0,4.0,3+,6.0,,Moderately Old,,,2651.0,0.0,0.0,0.0,0.0,0.0,1.0,44.0,662.75
 flat,vatika seven elements,sector 89,1.6,8163.0,1960.0,Super Built up area 1960(182.09 sq.m.),3.0,3.0,3,5.0,,New Property,1960.0,,,0.0,0.0,0.0,0.0,0.0,0.0,58.0,653.3333333333334
 flat,dlf the primus,sector 82a,2.6,11439.0,2273.0,Super Built up area 2273(211.17 sq.m.)Carpet area: 1340 sq.ft. (124.49 sq.m.),4.0,4.0,3+,2.0,East,Relatively New,2273.0,,1340.0,0.0,0.0,0.0,0.0,1.0,0.0,38.0,568.25
-flat,vatika gurgaon,sector 83,1.4,7179.0,1950.0,Carpet area: 1950 (181.16 sq.m.),4.0,4.0,3,10.0,North-East,Relatively New,,,1950.0,0.0,1.0,0.0,0.0,0.0,0.0,35.0,487.5
+flat,vatika Gurugram,sector 83,1.4,7179.0,1950.0,Carpet area: 1950 (181.16 sq.m.),4.0,4.0,3,10.0,North-East,Relatively New,,,1950.0,0.0,1.0,0.0,0.0,0.0,0.0,35.0,487.5
 flat,m3m merlin,sector 67,2.78,13581.0,2047.0,Super Built up area 2047(190.17 sq.m.),3.0,3.0,3+,4.0,South-West,Relatively New,2047.0,,,0.0,0.0,0.0,1.0,0.0,1.0,157.0,682.3333333333334
 flat,bestech park view residency,sector 2,0.56,8550.0,655.0,Carpet area: 650 (60.39 sq.m.),1.0,1.0,2,7.0,South-West,Moderately Old,,,650.0,0.0,0.0,0.0,0.0,0.0,0.0,92.0,655.0
 flat,emaar palm premier,sector 77,2.1,10500.0,2000.0,Super Built up area 2000(185.81 sq.m.)Built Up area: 1600 sq.ft. (148.64 sq.m.)Carpet area: 1500 sq.ft. (139.35 sq.m.),3.0,4.0,3+,11.0,,New Property,2000.0,1600.0,1500.0,0.0,1.0,0.0,0.0,0.0,1.0,129.0,666.6666666666666
@@ -2257,7 +2257,7 @@ house,independent,sector 2,5.7,22637.0,2518.0,Plot area 270(225.75 sq.m.),9.0,9.
 flat,the serenas,sector 36,0.42,7910.0,531.0,Carpet area: 531 (49.33 sq.m.),2.0,2.0,1,3.0,,Undefined,,,531.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,265.5
 flat,indiabulls centrum park,sector 103,1.35,7542.0,1790.0,Super Built up area 1790(166.3 sq.m.),3.0,3.0,3+,3.0,North-East,Relatively New,1790.0,,,1.0,0.0,0.0,0.0,0.0,1.0,168.0,596.6666666666666
 flat,ss the leaf,sector 85,1.04,5974.0,1741.0,Super Built up area 1741(161.74 sq.m.),2.0,3.0,3+,4.0,West,Relatively New,1741.0,,,0.0,0.0,1.0,0.0,0.0,0.0,113.0,870.5
-flat,emaar gurgaon greens,sector 102,1.45,8788.0,1650.0,Super Built up area 1650(153.29 sq.m.),3.0,3.0,3,7.0,North-East,Relatively New,1650.0,,,0.0,1.0,0.0,0.0,0.0,0.0,159.0,550.0
+flat,emaar Gurugram greens,sector 102,1.45,8788.0,1650.0,Super Built up area 1650(153.29 sq.m.),3.0,3.0,3,7.0,North-East,Relatively New,1650.0,,,0.0,1.0,0.0,0.0,0.0,0.0,159.0,550.0
 flat,smart world orchard,sector 61,1.5,12500.0,1200.0,Carpet area: 1200 (111.48 sq.m.),2.0,2.0,2,2.0,North,Under Construction,,,1200.0,1.0,0.0,0.0,0.0,0.0,0.0,49.0,600.0
 flat,bptp terra,sector 37d,1.65,7531.0,2191.0,Super Built up area 2191(203.55 sq.m.)Built Up area: 2091 sq.ft. (194.26 sq.m.)Carpet area: 1991 sq.ft. (184.97 sq.m.),4.0,3.0,3+,6.0,West,Relatively New,2191.0,2091.0,1991.0,0.0,0.0,0.0,0.0,0.0,1.0,149.0,547.75
 flat,sagar apartment,sector 56,1.45,7250.0,2000.0,Super Built up area 2000(185.81 sq.m.)Built Up area: 1900 sq.ft. (176.52 sq.m.)Carpet area: 1800 sq.ft. (167.23 sq.m.),3.0,3.0,3+,7.0,South,Old Property,2000.0,1900.0,1800.0,1.0,1.0,0.0,1.0,1.0,0.0,166.0,666.6666666666666
@@ -2275,7 +2275,7 @@ flat,vatika xpressions,sector 88,0.92,7360.0,1250.0,Super Built up area 1350(125
 flat,dlf new town heights,sector 90,1.25,6504.0,1922.0,Super Built up area 1930(179.3 sq.m.)Built Up area: 1929 sq.ft. (179.21 sq.m.)Carpet area: 1928 sq.ft. (179.12 sq.m.),3.0,3.0,3+,5.0,North,Relatively New,1930.0,1929.0,1928.0,0.0,1.0,0.0,1.0,0.0,0.0,127.0,640.6666666666666
 house,huda,sector 38,3.5,24005.0,1458.0,Plot area 162(135.45 sq.m.)Built Up area: 161 sq.yards (134.62 sq.m.)Carpet area: 160 sq.yards (133.78 sq.m.),3.0,2.0,3,2.0,East,Moderately Old,,161.0,160.0,0.0,0.0,1.0,0.0,0.0,1.0,85.0,486.0
 house,sushant lok 1 builder floors,sector 43,1.95,10078.0,1935.0,Plot area 215(179.77 sq.m.),3.0,4.0,3+,4.0,West,New Property,,1935.0,,0.0,1.0,0.0,0.0,0.0,1.0,78.0,645.0
-flat,vatika gurgaon,sector 83,1.1,6051.0,1818.0,Super Built up area 1735(161.19 sq.m.),3.0,3.0,3,12.0,North,Relatively New,1735.0,,,0.0,1.0,0.0,0.0,0.0,1.0,66.0,606.0
+flat,vatika Gurugram,sector 83,1.1,6051.0,1818.0,Super Built up area 1735(161.19 sq.m.),3.0,3.0,3,12.0,North,Relatively New,1735.0,,,0.0,1.0,0.0,0.0,0.0,1.0,66.0,606.0
 flat,conscient heritage max,sector 102,2.15,10005.0,2149.0,Super Built up area 2149(199.65 sq.m.),3.0,4.0,3+,18.0,South,Relatively New,2149.0,,,1.0,1.0,0.0,0.0,0.0,1.0,134.0,716.3333333333334
 flat,unitech fresco,sector 50,1.14,8533.0,1336.0,Super Built up area 1336(124.12 sq.m.)Built Up area: 1330 sq.ft. (123.56 sq.m.)Carpet area: 1100 sq.ft. (102.19 sq.m.),2.0,2.0,2,19.0,East,Moderately Old,1336.0,1330.0,1100.0,0.0,0.0,0.0,0.0,1.0,1.0,174.0,668.0
 flat,godrej nature plus serenity,sector 33,1.45,8677.0,1671.0,Super Built up area 1671(155.24 sq.m.),3.0,2.0,3,3.0,South,Under Construction,1671.0,,,0.0,0.0,0.0,0.0,0.0,0.0,49.0,557.0
@@ -2289,7 +2289,7 @@ flat,tulip violet,sector 69,1.55,9823.0,1578.0,Super Built up area 1578(146.6 sq
 flat,smart world orchard,sector 61,1.7,15004.0,1133.0,Carpet area: 1150 (106.84 sq.m.),2.0,2.0,2,4.0,,Under Construction,,,1150.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,566.5
 flat,signature the roselia,sector 95,0.45,7909.0,569.0,Carpet area: 569 (52.86 sq.m.),2.0,2.0,2,2.0,East,New Property,,,569.0,0.0,0.0,0.0,0.0,0.0,1.0,31.0,284.5
 flat,sbtl caladium,sector 109,1.35,7181.0,1880.0,Super Built up area 1880(174.66 sq.m.)Carpet area: 1128 sq.ft. (104.79 sq.m.),3.0,2.0,3+,12.0,West,Relatively New,1880.0,,1128.0,0.0,0.0,0.0,0.0,0.0,0.0,128.0,626.6666666666666
-flat,emaar gurgaon greens,sector 102,1.35,10800.0,1250.0,Super Built up area 1650(153.29 sq.m.)Built Up area: 1400 sq.ft. (130.06 sq.m.)Carpet area: 1250 sq.ft. (116.13 sq.m.),3.0,4.0,3+,9.0,North-East,Relatively New,1650.0,1400.0,1250.0,0.0,1.0,0.0,1.0,0.0,1.0,174.0,416.6666666666667
+flat,emaar Gurugram greens,sector 102,1.35,10800.0,1250.0,Super Built up area 1650(153.29 sq.m.)Built Up area: 1400 sq.ft. (130.06 sq.m.)Carpet area: 1250 sq.ft. (116.13 sq.m.),3.0,4.0,3+,9.0,North-East,Relatively New,1650.0,1400.0,1250.0,0.0,1.0,0.0,1.0,0.0,1.0,174.0,416.6666666666667
 flat,awho shanti vihar,sector 95,0.8,8889.0,900.0,Super Built up area 900(83.61 sq.m.)Carpet area: 550 sq.ft. (51.1 sq.m.),2.0,2.0,3,9.0,East,New Property,900.0,,550.0,1.0,0.0,0.0,0.0,0.0,0.0,67.0,450.0
 flat,raheja navodaya,sector 92,0.85,4271.0,1990.0,Super Built up area 1990(184.88 sq.m.),3.0,3.0,3,2.0,North-West,Relatively New,1990.0,,,0.0,0.0,0.0,0.0,0.0,0.0,100.0,663.3333333333334
 flat,dlf new town heights,sector 90,1.99,7297.0,2727.0,Carpet area: 2727 (253.35 sq.m.),4.0,4.0,3+,9.0,East,Relatively New,,,2727.0,0.0,1.0,0.0,1.0,0.0,1.0,102.0,681.75
@@ -2467,7 +2467,7 @@ flat,emaar mgf the palm drive,sector 66,3.45,15682.0,2200.0,Super Built up area 
 flat,dlf the primus,sector 82a,2.2,10516.0,2092.0,Super Built up area 2092(194.35 sq.m.),3.0,3.0,3+,16.0,North-East,Relatively New,2092.0,,,0.0,1.0,0.0,0.0,0.0,2.0,174.0,697.3333333333334
 flat,vatika the seven lamps,sector 82,0.85,5977.0,1422.0,Super Built up area 1430(132.85 sq.m.),2.0,2.0,2,9.0,North-East,Relatively New,1430.0,,,1.0,0.0,0.0,0.0,0.0,0.0,117.0,711.0
 house,international city by sobha phase 2,sector 109,6.25,10035.0,6228.0,Plot area 692(578.6 sq.m.),5.0,7.0,3+,3.0,North-East,Relatively New,,6228.0,,1.0,1.0,1.0,1.0,0.0,0.0,147.0,1245.6
-flat,alpha corp gurgaonone,sector 84,1.52,7904.0,1923.0,Super Built up area 1923(178.65 sq.m.)Carpet area: 1500 sq.ft. (139.35 sq.m.),3.0,4.0,3,15.0,South,Relatively New,1923.0,,1500.0,0.0,1.0,0.0,0.0,0.0,0.0,92.0,641.0
+flat,alpha corp Gurugramone,sector 84,1.52,7904.0,1923.0,Super Built up area 1923(178.65 sq.m.)Carpet area: 1500 sq.ft. (139.35 sq.m.),3.0,4.0,3,15.0,South,Relatively New,1923.0,,1500.0,0.0,1.0,0.0,0.0,0.0,0.0,92.0,641.0
 flat,maruti kunj,sector 11,0.8,5161.0,1550.0,Super Built up area 1550(144 sq.m.),3.0,2.0,0,0.0,,Old Property,1550.0,,,0.0,0.0,0.0,0.0,0.0,0.0,8.0,516.6666666666666
 house,unitech espace,sector 50,7.45,34491.0,2160.0,Plot area 240(200.67 sq.m.)Built Up area: 4500 sq.yards (3762.57 sq.m.)Carpet area: 4000 sq.yards (3344.51 sq.m.),4.0,4.0,3,3.0,,Old Property,,4500.0,4000.0,0.0,1.0,0.0,0.0,0.0,1.0,59.0,540.0
 flat,bestech park view grand spa,sector 81,2.4,9023.0,2660.0,Super Built up area 2660(247.12 sq.m.),3.0,4.0,3+,8.0,North,New Property,2660.0,,,1.0,1.0,0.0,0.0,0.0,1.0,167.0,886.6666666666666
@@ -2512,7 +2512,7 @@ flat,central park resorts,sector 48,11.25,28266.0,3980.0,Carpet area: 3980 (369.
 house,independent,sector 25,7.3,12586.0,5800.0,Plot area 215(179.77 sq.m.)Built Up area: 5800 sq.yards (4849.54 sq.m.)Carpet area: 5200 sq.yards (4347.86 sq.m.),9.0,9.0,2,3.0,North-West,Relatively New,,5800.0,5200.0,0.0,1.0,1.0,0.0,0.0,1.0,109.0,644.4444444444445
 house,vipul tatvam villa,sector 48,22.0,26667.0,8250.0,Plot area 1000(836.13 sq.m.),5.0,6.0,3,3.0,,Moderately Old,,1000.0,,0.0,1.0,0.0,0.0,0.0,0.0,54.0,1650.0
 flat,tulip white,sector 69,0.9,6787.0,1326.0,Carpet area: 1326 (123.19 sq.m.),3.0,2.0,3,6.0,North-East,Relatively New,,,1326.0,0.0,0.0,0.0,1.0,0.0,0.0,121.0,442.0
-flat,emaar gurgaon greens,sector 102,1.42,8606.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022 sq.ft. (94.95 sq.m.),3.0,3.0,3,4.0,North,Relatively New,1650.0,,1022.0,0.0,0.0,0.0,0.0,1.0,0.0,49.0,550.0
+flat,emaar Gurugram greens,sector 102,1.42,8606.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022 sq.ft. (94.95 sq.m.),3.0,3.0,3,4.0,North,Relatively New,1650.0,,1022.0,0.0,0.0,0.0,0.0,1.0,0.0,49.0,550.0
 house,bptp visionnaire,sector 70a,5.25,20115.0,2610.0,Plot area 290(242.48 sq.m.),5.0,4.0,3+,3.0,North-East,New Property,,2610.0,,0.0,1.0,0.0,0.0,0.0,1.0,49.0,522.0
 flat,dlf regency park,sector 28,2.25,14516.0,1550.0,Super Built up area 1777(165.09 sq.m.)Built Up area: 1700 sq.ft. (157.94 sq.m.)Carpet area: 1550 sq.ft. (144 sq.m.),3.0,3.0,2,16.0,West,Old Property,1777.0,1700.0,1550.0,0.0,1.0,0.0,0.0,0.0,0.0,89.0,516.6666666666666
 flat,central park flower valley,sector 33,1.79,11251.0,1591.0,Super Built up area 1789(166.2 sq.m.),3.0,3.0,3,3.0,South,Old Property,1789.0,,,0.0,0.0,0.0,0.0,0.0,0.0,71.0,530.3333333333334
@@ -2542,7 +2542,7 @@ house,bestech park view aindependentda,sector 81,4.35,7937.0,5481.0,Plot area 54
 flat,pioneer park,sector 61,2.0,11765.0,1700.0,Super Built up area 1700(157.94 sq.m.),3.0,3.0,3,24.0,North-West,Moderately Old,1700.0,,,0.0,0.0,0.0,0.0,0.0,1.0,75.0,566.6666666666666
 flat,mahindra aura,sector 110,2.25,9267.0,2428.0,Super Built up area 2428(225.57 sq.m.)Built Up area: 2350 sq.ft. (218.32 sq.m.)Carpet area: 2050 sq.ft. (190.45 sq.m.),4.0,4.0,3+,2.0,South-West,Relatively New,2428.0,2350.0,2050.0,0.0,1.0,0.0,0.0,0.0,0.0,152.0,607.0
 flat,dlf the ultima,sector 81,2.25,10553.0,2132.0,Super Built up area 2132(198.07 sq.m.),3.0,3.0,3+,6.0,East,New Property,2132.0,,,0.0,1.0,0.0,0.0,0.0,2.0,168.0,710.6666666666666
-flat,emaar gurgaon greens,sector 102,1.49,9030.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,10.0,North-East,Relatively New,1650.0,,1022.58,0.0,0.0,0.0,0.0,0.0,1.0,159.0,550.0
+flat,emaar Gurugram greens,sector 102,1.49,9030.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,10.0,North-East,Relatively New,1650.0,,1022.58,0.0,0.0,0.0,0.0,0.0,1.0,159.0,550.0
 flat,umang winter hills,sector 77,0.8,5961.0,1342.0,Super Built up area 1342(124.68 sq.m.)Carpet area: 1000 sq.ft. (92.9 sq.m.),2.0,2.0,2,10.0,North,Relatively New,1342.0,,1000.0,0.0,0.0,0.0,0.0,0.0,1.0,49.0,671.0
 house,ansal sushant lok,sector 43,10.5,27911.0,3762.0,Plot area 418(349.5 sq.m.),4.0,4.0,2,,North-East,Old Property,,3762.0,,0.0,1.0,0.0,0.0,0.0,0.0,59.0,940.5
 flat,smart world one dxp,sector 113,3.45,13269.0,2600.0,Super Built up area 2600(241.55 sq.m.),4.0,4.0,3,11.0,South-East,Under Construction,2600.0,,,1.0,1.0,0.0,0.0,0.0,1.0,156.0,650.0
@@ -2593,7 +2593,7 @@ flat,mapsko royale ville,sector 82,0.99,5531.0,1790.0,Super Built up area 1790(1
 flat,the rama apartment cghs,sector 43,2.5,10204.0,2450.0,Carpet area: 2450 (227.61 sq.m.),4.0,4.0,3+,4.0,East,Moderately Old,,,2450.0,0.0,1.0,0.0,0.0,0.0,0.0,26.0,612.5
 flat,umang monsoon breeze,sector 78,0.8,4837.0,1654.0,Super Built up area 1654(153.66 sq.m.)Built Up area: 1472 sq.ft. (136.75 sq.m.)Carpet area: 1310 sq.ft. (121.7 sq.m.),3.0,2.0,2,7.0,South,Moderately Old,1654.0,1472.0,1310.0,0.0,0.0,0.0,1.0,0.0,0.0,102.0,551.3333333333334
 flat,ats triumph,sector 104,2.62,8317.0,3150.0,Super Built up area 3150(292.64 sq.m.),4.0,4.0,3+,14.0,North,Relatively New,3150.0,,,0.0,1.0,0.0,0.0,0.0,0.0,174.0,787.5
-flat,tata gurgaon gateway,sector 113,1.75,10442.0,1676.0,Super Built up area 1580(146.79 sq.m.),2.0,2.0,2,10.0,North,Relatively New,1580.0,,,1.0,0.0,0.0,0.0,0.0,0.0,104.0,838.0
+flat,tata Gurugram gateway,sector 113,1.75,10442.0,1676.0,Super Built up area 1580(146.79 sq.m.),2.0,2.0,2,10.0,North,Relatively New,1580.0,,,1.0,0.0,0.0,0.0,0.0,0.0,104.0,838.0
 flat,shree vardhman flora,sector 90,0.66,5077.0,1300.0,Super Built up area 1300(120.77 sq.m.)Carpet area: 960 sq.ft. (89.19 sq.m.),2.0,2.0,3,4.0,North-East,Relatively New,1300.0,,960.0,1.0,0.0,0.0,0.0,0.0,0.0,119.0,650.0
 flat,krisumi waterfall residences,sector 36,2.2,14875.0,1479.0,Super Built up area 1479(137.4 sq.m.),2.0,2.0,2,23.0,North,New Property,1479.0,,,0.0,0.0,0.0,0.0,0.0,0.0,15.0,739.5
 flat,m3m woodshire,sector 107,0.94,6881.0,1366.0,Super Built up area 1366(126.91 sq.m.),2.0,2.0,3+,1.0,East,Moderately Old,1366.0,,,0.0,0.0,0.0,0.0,0.0,0.0,113.0,683.0
@@ -2742,7 +2742,7 @@ flat,pivotal devaan,sector 84,0.35,7246.0,483.0,Carpet area: 483 (44.87 sq.m.),2
 flat,ats marigold,sector 89,1.85,8605.0,2150.0,Super Built up area 2150(199.74 sq.m.),3.0,3.0,3+,12.0,South-West,New Property,2150.0,,,0.0,1.0,0.0,0.0,0.0,0.0,37.0,716.6666666666666
 flat,smart world orchard,sector 61,1.6,13913.0,1150.0,Carpet area: 1150 (106.84 sq.m.),2.0,2.0,2,4.0,,Under Construction,,,1150.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,575.0
 flat,antriksh heights,sector 84,0.79,4580.0,1725.0,Super Built up area 1725(160.26 sq.m.),3.0,3.0,3+,8.0,West,New Property,1725.0,,,0.0,0.0,0.0,0.0,0.0,0.0,24.0,575.0
-flat,avl 36 gurgaon,sector 36,0.65,8953.0,726.0,Super Built up area 726(67.45 sq.m.),2.0,2.0,2,7.0,,Relatively New,726.0,,,0.0,0.0,0.0,0.0,0.0,0.0,89.0,363.0
+flat,avl 36 Gurugram,sector 36,0.65,8953.0,726.0,Super Built up area 726(67.45 sq.m.),2.0,2.0,2,7.0,,Relatively New,726.0,,,0.0,0.0,0.0,0.0,0.0,0.0,89.0,363.0
 flat,ompee k s residency,sector 110,1.6,2993.0,5346.0,Carpet area: 66 (55.18 sq.m.),2.0,2.0,2,1.0,,Relatively New,,,66.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2673.0
 flat,ss the leaf,sector 85,2.0,11869.0,1685.0,Super Built up area 2408(223.71 sq.m.)Carpet area: 1685 sq.ft. (156.54 sq.m.),3.0,4.0,3,5.0,West,Relatively New,2408.0,,1685.0,0.0,1.0,0.0,0.0,0.0,0.0,156.0,561.6666666666666
 house,independent,sector 9,0.5,6083.0,822.0,Built Up area: 822 (76.37 sq.m.)Carpet area: 750 sq.ft. (69.68 sq.m.),3.0,2.0,1,1.0,,Undefined,,822.0,750.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,274.0
@@ -2789,7 +2789,7 @@ flat,ss the leaf,sector 85,1.05,6162.0,1704.0,Super Built up area 1671(155.24 sq
 flat,supertech hues,sector 68,0.82,6949.0,1180.0,Super Built up area 1180(109.63 sq.m.),2.0,2.0,3+,21.0,,Under Construction,1180.0,,,0.0,0.0,0.0,0.0,1.0,0.0,72.0,590.0
 flat,orris carnation residency,sector 85,0.55,5789.0,950.0,Super Built up area 1115(103.59 sq.m.)Built Up area: 1050 sq.ft. (97.55 sq.m.)Carpet area: 950 sq.ft. (88.26 sq.m.),2.0,2.0,2,5.0,North-East,Relatively New,1115.0,1050.0,950.0,0.0,0.0,0.0,0.0,1.0,0.0,174.0,475.0
 house,satya the hermitage,sector 103,3.15,6702.0,4700.0,Built Up area: 4700 (436.64 sq.m.),4.0,5.0,0,12.0,East,Undefined,,4700.0,,0.0,0.0,0.0,0.0,0.0,0.0,61.0,1175.0
-flat,emaar gurgaon greens,sector 102,1.6,9697.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,8.0,,Relatively New,1650.0,,1022.58,0.0,0.0,0.0,0.0,0.0,0.0,46.0,550.0
+flat,emaar Gurugram greens,sector 102,1.6,9697.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,8.0,,Relatively New,1650.0,,1022.58,0.0,0.0,0.0,0.0,0.0,0.0,46.0,550.0
 flat,unitech uniworld gardens,sector 47,2.4,11505.0,2086.0,Super Built up area 2086(193.8 sq.m.),3.0,3.0,3+,10.0,,Moderately Old,2086.0,,,0.0,1.0,0.0,0.0,0.0,1.0,120.0,695.3333333333334
 flat,shree vardhman flora,sector 90,1.3,5253.0,2475.0,Super Built up area 2475(229.94 sq.m.)Carpet area: 1825 sq.ft. (169.55 sq.m.),4.0,5.0,2,9.0,North-East,Relatively New,2475.0,,1825.0,1.0,1.0,0.0,0.0,0.0,0.0,110.0,618.75
 house,godrej meridien,sector 106,5.6,14000.0,4000.0,Plot area 4000(371.61 sq.m.),5.0,4.0,3+,33.0,North-East,New Property,,4000.0,,1.0,1.0,1.0,1.0,0.0,0.0,151.0,800.0
@@ -2819,7 +2819,7 @@ flat,m3m sierra 68,sector 68,1.25,10246.0,1220.0,Super Built up area 1220(113.34
 flat,conscient heritage max,sector 102,2.1,9772.0,2149.0,Super Built up area 2149(199.65 sq.m.),3.0,4.0,3+,10.0,East,Relatively New,2149.0,,,1.0,1.0,0.0,0.0,0.0,0.0,53.0,716.3333333333334
 house,independent,sector 23,5.65,17706.0,3191.0,Plot area 342(285.96 sq.m.)Built Up area: 5000 sq.yards (4180.64 sq.m.)Carpet area: 4000 sq.yards (3344.51 sq.m.),7.0,7.0,3+,2.0,West,Moderately Old,,5000.0,4000.0,0.0,1.0,0.0,1.0,0.0,0.0,68.0,455.85714285714283
 flat,paras dews,sector 106,1.25,10656.0,1173.0,Super Built up area 1900(176.52 sq.m.)Built Up area: 1305 sq.ft. (121.24 sq.m.)Carpet area: 1173 sq.ft. (108.98 sq.m.),3.0,4.0,3,14.0,East,Relatively New,1900.0,1305.0,1173.0,1.0,1.0,0.0,0.0,0.0,0.0,167.0,391.0
-flat,emaar gurgaon greens,sector 102,1.3,7879.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,4.0,East,Relatively New,1650.0,,1022.58,0.0,1.0,0.0,0.0,0.0,1.0,125.0,550.0
+flat,emaar Gurugram greens,sector 102,1.3,7879.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,4.0,East,Relatively New,1650.0,,1022.58,0.0,1.0,0.0,0.0,0.0,1.0,125.0,550.0
 flat,dlf new town heights,sector 90,1.2,6218.0,1930.0,Super Built up area 1930(179.3 sq.m.),3.0,3.0,3+,15.0,North,Relatively New,1930.0,,,0.0,0.0,0.0,0.0,0.0,0.0,37.0,643.3333333333334
 flat,global hill view,sector 11,0.33,4269.0,773.0,Built Up area: 761 (70.7 sq.m.),2.0,2.0,0,11.0,,Undefined,,761.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,386.5
 flat,suncity vatsal valley,gwal pahari,1.38,9650.0,1430.0,Super Built up area 1430(132.85 sq.m.),3.0,3.0,2,1.0,East,Relatively New,1430.0,,,0.0,0.0,0.0,0.0,0.0,1.0,151.0,476.6666666666667
@@ -2848,7 +2848,7 @@ flat,bestech park view residency,sector 2,1.36,7645.0,1779.0,Super Built up area
 flat,puri emerald bay,sector 104,1.58,9117.0,1733.0,Super Built up area 1700(157.94 sq.m.),2.0,3.0,3,11.0,North-East,Relatively New,1700.0,,,0.0,1.0,0.0,0.0,0.0,0.0,101.0,866.5
 house,independent,sector 3,0.6,6000.0,1000.0,Built Up area: 1000 (92.9 sq.m.),1.0,1.0,0,1.0,,Undefined,,1000.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1000.0
 house,independent,sector 57,3.3,19097.0,1728.0,Plot area 192(160.54 sq.m.),4.0,4.0,2,3.0,South-East,Moderately Old,,1728.0,,0.0,0.0,1.0,0.0,0.0,1.0,60.0,432.0
-flat,vatika gurgaon,sector 83,0.87,6988.0,1245.0,Super Built up area 1245(115.66 sq.m.),2.0,2.0,2,3.0,East,Moderately Old,1245.0,,,0.0,0.0,0.0,0.0,0.0,0.0,35.0,622.5
+flat,vatika Gurugram,sector 83,0.87,6988.0,1245.0,Super Built up area 1245(115.66 sq.m.),2.0,2.0,2,3.0,East,Moderately Old,1245.0,,,0.0,0.0,0.0,0.0,0.0,0.0,35.0,622.5
 flat,signature global synera,sector 81,0.4,6319.0,633.0,Super Built up area 633(58.81 sq.m.)Carpet area: 539 sq.ft. (50.07 sq.m.),2.0,2.0,1,12.0,South,Relatively New,633.0,,539.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,316.5
 flat,m3m woodshire,sector 107,1.45,6141.0,2361.0,Super Built up area 2361(219.34 sq.m.)Built Up area: 1900 sq.ft. (176.52 sq.m.),3.0,4.0,3+,7.0,South,Relatively New,2361.0,1900.0,,0.0,1.0,0.0,0.0,0.0,0.0,67.0,787.0
 flat,paras dews,sector 106,1.34,9551.0,1403.0,Super Built up area 2355(218.79 sq.m.)Built Up area: 1535 sq.ft. (142.61 sq.m.)Carpet area: 1403 sq.ft. (130.34 sq.m.),4.0,5.0,3+,7.0,South-East,Relatively New,2355.0,1535.0,1403.0,0.0,1.0,0.0,0.0,0.0,0.0,49.0,350.75
@@ -2856,7 +2856,7 @@ flat,bestech park view ananda,sector 81,1.4,7735.0,1810.0,Super Built up area 18
 house,independent,sector 50,7.0,23333.0,3000.0,Plot area 2400(222.97 sq.m.)Built Up area: 3400 sq.ft. (315.87 sq.m.)Carpet area: 3000 sq.ft. (278.71 sq.m.),4.0,4.0,2,3.0,North-East,Old Property,,3400.0,3000.0,0.0,1.0,0.0,0.0,0.0,0.0,118.0,750.0
 house,independent,sector 14,5.5,16975.0,3240.0,Plot area 360(301.01 sq.m.)Built Up area: 355 sq.yards (296.83 sq.m.)Carpet area: 300 sq.yards (250.84 sq.m.),5.0,4.0,2,2.0,East,Old Property,,355.0,300.0,1.0,0.0,0.0,0.0,0.0,0.0,27.0,648.0
 flat,m3m heights,sector 65,1.95,15997.0,1219.0,Super Built up area 1261(117.15 sq.m.),2.0,2.0,3,16.0,,Under Construction,1261.0,,,0.0,0.0,0.0,0.0,0.0,0.0,44.0,609.5
-flat,emaar gurgaon greens,sector 102,1.45,14174.0,1023.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,10.0,North-East,Relatively New,1650.0,,1022.58,0.0,1.0,0.0,0.0,0.0,0.0,165.0,341.0
+flat,emaar Gurugram greens,sector 102,1.45,14174.0,1023.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,10.0,North-East,Relatively New,1650.0,,1022.58,0.0,1.0,0.0,0.0,0.0,0.0,165.0,341.0
 flat,vasant appartments,sector 14,1.7,7391.0,2300.0,Carpet area: 2300 (213.68 sq.m.),5.0,5.0,2,2.0,North-West,Old Property,,,2300.0,1.0,0.0,1.0,1.0,0.0,2.0,71.0,460.0
 house,dlf city plots phase 2,sector 25,6.5,33592.0,1935.0,Plot area 215(179.77 sq.m.),3.0,9.0,3+,3.0,West,Old Property,,1935.0,,1.0,1.0,1.0,1.0,0.0,1.0,142.0,645.0
 flat,tulip violet,sector 69,1.37,8676.0,1579.0,Super Built up area 1578(146.6 sq.m.)Carpet area: 1538 sq.ft. (142.88 sq.m.),3.0,3.0,1,12.0,East,Relatively New,1578.0,,1538.0,0.0,0.0,0.0,1.0,0.0,0.0,95.0,526.3333333333334
@@ -2891,7 +2891,7 @@ house,independent,sector 43,8.25,30556.0,2700.0,Plot area 300(250.84 sq.m.),5.0,
 flat,shri banke bihari society,sector 56,1.35,9643.0,1400.0,Super Built up area 1500(139.35 sq.m.)Built Up area: 1450 sq.ft. (134.71 sq.m.)Carpet area: 1400 sq.ft. (130.06 sq.m.),3.0,3.0,3+,4.0,,Old Property,1500.0,1450.0,1400.0,0.0,0.0,0.0,0.0,1.0,1.0,174.0,466.6666666666667
 flat,dlf the primus,sector 82a,2.95,11452.0,2576.0,Super Built up area 2576(239.32 sq.m.)Carpet area: 1700 sq.ft. (157.94 sq.m.),4.0,5.0,3+,10.0,North-East,Relatively New,2576.0,,1700.0,0.0,1.0,0.0,0.0,0.0,2.0,174.0,644.0
 flat,unitech uniworld gardens,sector 47,2.4,11505.0,2086.0,Super Built up area 2086(193.8 sq.m.)Carpet area: 1750 sq.ft. (162.58 sq.m.),3.0,4.0,3+,10.0,East,Moderately Old,2086.0,,1750.0,0.0,1.0,0.0,0.0,0.0,0.0,103.0,695.3333333333334
-flat,vatika gurgaon,sector 83,1.08,6225.0,1735.0,Super Built up area 1735(161.19 sq.m.),3.0,3.0,2,11.0,North-East,Relatively New,1735.0,,,0.0,0.0,0.0,0.0,1.0,0.0,19.0,578.3333333333334
+flat,vatika Gurugram,sector 83,1.08,6225.0,1735.0,Super Built up area 1735(161.19 sq.m.),3.0,3.0,2,11.0,North-East,Relatively New,1735.0,,,0.0,0.0,0.0,0.0,1.0,0.0,19.0,578.3333333333334
 flat,mapsko casa bella,sector 82,3.0,6134.0,4891.0,Super Built up area 4890(454.3 sq.m.),4.0,6.0,3+,25.0,West,Relatively New,4890.0,,,0.0,1.0,0.0,1.0,0.0,1.0,119.0,1222.75
 flat,ss the leaf,sector 85,2.0,8306.0,2408.0,Super Built up area 2408(223.71 sq.m.)Built Up area: 2300 sq.ft. (213.68 sq.m.)Carpet area: 2200 sq.ft. (204.39 sq.m.),3.0,4.0,3,6.0,North,Relatively New,2408.0,2300.0,2200.0,0.0,1.0,0.0,0.0,0.0,0.0,49.0,802.6666666666666
 flat,paras dews,sector 106,1.15,6534.0,1760.0,Super Built up area 1760(163.51 sq.m.)Built Up area: 1186 sq.ft. (110.18 sq.m.)Carpet area: 1130 sq.ft. (104.98 sq.m.),3.0,4.0,3+,12.0,East,Relatively New,1760.0,1186.0,1130.0,1.0,1.0,0.0,0.0,0.0,1.0,174.0,586.6666666666666
@@ -2907,7 +2907,7 @@ flat,ireo the corridors,sector 67a,1.3,10031.0,1296.0,Built Up area: 1296 (120.4
 flat,signature global park 4,sector 36,0.82,7586.0,1081.0,Carpet area: 1081 (100.43 sq.m.),3.0,2.0,3,2.0,,New Property,,,1081.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,360.3333333333333
 flat,sare crescent parc,sector 92,0.9,4278.0,2104.0,Super Built up area 1870(173.73 sq.m.),4.0,5.0,3+,14.0,North-East,Relatively New,1870.0,,,0.0,1.0,0.0,0.0,1.0,0.0,62.0,526.0
 house,independent,sector 50,10.45,38704.0,2700.0,Plot area 2700(250.84 sq.m.)Built Up area: 4000 sq.ft. (371.61 sq.m.),4.0,5.0,2,3.0,North,Moderately Old,,4000.0,,1.0,1.0,0.0,1.0,0.0,1.0,142.0,675.0
-flat,tata gurgaon gateway,sector 113,6.0,9139.0,6565.0,Carpet area: 6565 (609.91 sq.m.),5.0,6.0,3+,24.0,North,Moderately Old,,,6565.0,0.0,0.0,0.0,0.0,0.0,0.0,117.0,1313.0
+flat,tata Gurugram gateway,sector 113,6.0,9139.0,6565.0,Carpet area: 6565 (609.91 sq.m.),5.0,6.0,3+,24.0,North,Moderately Old,,,6565.0,0.0,0.0,0.0,0.0,0.0,0.0,117.0,1313.0
 flat,dlf new town heights,sector 90,1.9,5684.0,3343.0,Super Built up area 2727(253.35 sq.m.),4.0,4.0,3+,7.0,North-West,Relatively New,2727.0,,,0.0,1.0,0.0,1.0,0.0,0.0,88.0,835.75
 flat,railway officers rpf society,sector 9,1.25,6921.0,1806.0,Carpet area: 1806 (167.78 sq.m.),4.0,3.0,3,1.0,,Old Property,,,1806.0,0.0,1.0,0.0,0.0,0.0,0.0,40.0,451.5
 house,independent,sector 9,1.25,8735.0,1431.0,Plot area 159(132.94 sq.m.),3.0,6.0,3+,3.0,,Old Property,,1431.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,477.0
@@ -2924,7 +2924,7 @@ house,independent,sector 82,7.5,23148.0,3240.0,Plot area 360(301.01 sq.m.),5.0,5
 house,independent,sector 39,1.6,17937.0,892.0,Plot area 892(82.87 sq.m.),1.0,1.0,2,2.0,,Old Property,,892.0,,0.0,0.0,0.0,0.0,0.0,0.0,40.0,892.0
 flat,bestech park view spa next,sector 67,2.7,11489.0,2350.0,Super Built up area 2350(218.32 sq.m.),4.0,4.0,3+,9.0,South-West,Moderately Old,2350.0,,,0.0,1.0,0.0,1.0,0.0,1.0,149.0,587.5
 flat,sare crescent parc royal greens phase 1,sector 92,1.0,3713.0,2693.0,Super Built up area 2020(187.66 sq.m.),4.0,4.0,3,15.0,,New Property,2020.0,,,0.0,0.0,0.0,0.0,0.0,0.0,31.0,673.25
-flat,vatika gurgaon,sector 83,1.42,8875.0,1600.0,Super Built up area 2390(222.04 sq.m.)Built Up area: 2000 sq.ft. (185.81 sq.m.)Carpet area: 1600 sq.ft. (148.64 sq.m.),4.0,4.0,3,7.0,South-West,Relatively New,2390.0,2000.0,1600.0,1.0,1.0,0.0,0.0,0.0,0.0,103.0,400.0
+flat,vatika Gurugram,sector 83,1.42,8875.0,1600.0,Super Built up area 2390(222.04 sq.m.)Built Up area: 2000 sq.ft. (185.81 sq.m.)Carpet area: 1600 sq.ft. (148.64 sq.m.),4.0,4.0,3,7.0,South-West,Relatively New,2390.0,2000.0,1600.0,1.0,1.0,0.0,0.0,0.0,0.0,103.0,400.0
 flat,milan cghs 9,sector 39,2.0,8333.0,2400.0,Built Up area: 2400 (222.97 sq.m.),3.0,3.0,3+,0.0,,Undefined,,2400.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,800.0
 flat,conscient heritage max,sector 102,2.5,11633.0,2149.0,Super Built up area 2149(199.65 sq.m.),3.0,4.0,3+,25.0,North-East,New Property,2149.0,,,1.0,1.0,0.0,0.0,0.0,1.0,56.0,716.3333333333334
 flat,signature global solera,sector 107,0.28,5680.0,493.0,Carpet area: 489 (45.43 sq.m.),2.0,2.0,2,11.0,North,Relatively New,,,489.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0,246.5
@@ -2994,7 +2994,7 @@ flat,orris carnation residency,sector 85,1.1,6687.0,1645.0,Super Built up area 1
 flat,pareena laxmi apartments,sector 99,0.32,5787.0,553.0,Super Built up area 553(51.38 sq.m.)Carpet area: 453.5 sq.ft. (42.13 sq.m.),2.0,2.0,2,11.0,,New Property,553.0,,453.5,0.0,0.0,0.0,0.0,0.0,0.0,66.0,276.5
 flat,ambience creacions,sector 22,1.99,14420.0,1380.0,Super Built up area 1380(128.21 sq.m.)Built Up area: 1285 sq.ft. (119.38 sq.m.)Carpet area: 1280 sq.ft. (118.92 sq.m.),2.0,2.0,2,9.0,North-East,New Property,1380.0,1285.0,1280.0,1.0,1.0,0.0,1.0,0.0,0.0,20.0,690.0
 flat,afnhb jalvayu vihar,sector 30,1.45,11154.0,1300.0,Built Up area: 1300 (120.77 sq.m.)Carpet area: 1090 sq.ft. (101.26 sq.m.),3.0,2.0,2,2.0,North,Old Property,,1300.0,1090.0,0.0,0.0,0.0,0.0,0.0,2.0,75.0,433.3333333333333
-flat,emaar gurgaon greens,sector 102,1.4,8485.0,1650.0,Super Built up area 1650(153.29 sq.m.),3.0,3.0,3,4.0,North,Relatively New,1650.0,,,0.0,1.0,0.0,0.0,0.0,1.0,83.0,550.0
+flat,emaar Gurugram greens,sector 102,1.4,8485.0,1650.0,Super Built up area 1650(153.29 sq.m.),3.0,3.0,3,4.0,North,Relatively New,1650.0,,,0.0,1.0,0.0,0.0,0.0,1.0,83.0,550.0
 flat,ss the leaf,sector 85,2.0,6579.0,3040.0,Super Built up area 2812(261.24 sq.m.),4.0,5.0,3+,1.0,South-East,Relatively New,2812.0,,,0.0,1.0,1.0,0.0,0.0,0.0,106.0,760.0
 flat,satya the hermitage,sector 103,1.12,5625.0,1991.0,Super Built up area 1991(184.97 sq.m.)Carpet area: 1500 sq.ft. (139.35 sq.m.),3.0,4.0,3+,9.0,,New Property,1991.0,,1500.0,0.0,1.0,0.0,0.0,0.0,0.0,49.0,663.6666666666666
 house,independent,sector 43,5.5,19298.0,2850.0,Plot area 215(179.77 sq.m.)Built Up area: 2850 sq.yards (2382.96 sq.m.)Carpet area: 2250 sq.yards (1881.29 sq.m.),8.0,7.0,3+,3.0,East,Moderately Old,,2850.0,2250.0,1.0,1.0,0.0,1.0,1.0,1.0,123.0,356.25
@@ -3003,7 +3003,7 @@ flat,adani aangan arcade,sector 88a,0.45,7200.0,625.0,Carpet area: 625 (58.06 sq
 house,uppal southend,sector 49,3.75,25562.0,1467.0,Built Up area: 163 (136.29 sq.m.),2.0,6.0,3+,3.0,East,Moderately Old,,163.0,,1.0,0.0,0.0,0.0,0.0,1.0,26.0,733.5
 flat,vipul belmonte,sector 53,6.0,24490.0,2450.0,Super Built up area 2450(227.61 sq.m.),3.0,4.0,3+,6.0,North-West,Moderately Old,2450.0,,,0.0,1.0,0.0,0.0,1.0,1.0,26.0,816.6666666666666
 flat,signature global solera,sector 107,0.28,5726.0,489.0,Carpet area: 489 (45.43 sq.m.),2.0,2.0,2,10.0,South,Relatively New,,,489.0,0.0,0.0,0.0,0.0,0.0,0.0,38.0,244.5
-flat,emaar gurgaon greens,sector 102,1.5,9091.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,7.0,West,Relatively New,1650.0,,1022.58,0.0,0.0,0.0,1.0,0.0,1.0,174.0,550.0
+flat,emaar Gurugram greens,sector 102,1.5,9091.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,3.0,3,7.0,West,Relatively New,1650.0,,1022.58,0.0,0.0,0.0,1.0,0.0,1.0,174.0,550.0
 flat,raheja revanta,sector 78,0.99,6100.0,1623.0,Super Built up area 1621(150.6 sq.m.),2.0,2.0,3,14.0,East,Under Construction,1621.0,,,0.0,0.0,0.0,0.0,1.0,0.0,39.0,811.5
 house,independent,sector 26,15.0,33201.0,4518.0,Plot area 502(419.74 sq.m.),5.0,6.0,3+,3.0,North,Moderately Old,,4518.0,,1.0,1.0,1.0,1.0,0.0,1.0,78.0,903.6
 flat,suposhaa smartworld orchard,sector 61,2.25,14526.0,1549.0,Carpet area: 1549 (143.91 sq.m.),3.0,3.0,2,3.0,,Under Construction,,,1549.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,516.3333333333334
@@ -3136,7 +3136,7 @@ flat,raheja vedaanta,sector 108,0.95,5214.0,1822.0,Super Built up area 1822(169.
 flat,suncity platinum towers,sector 28,7.0,22222.0,3150.0,Super Built up area 3150(292.64 sq.m.)Carpet area: 1913 sq.ft. (177.72 sq.m.),4.0,3.0,2,10.0,North,Moderately Old,3150.0,,1913.0,0.0,1.0,0.0,0.0,0.0,0.0,31.0,787.5
 flat,umang winter hills,sector 77,0.99,7857.0,1260.0,Super Built up area 1260(117.06 sq.m.)Carpet area: 1000 sq.ft. (92.9 sq.m.),2.0,2.0,2,1.0,North,Relatively New,1260.0,,1000.0,0.0,0.0,0.0,0.0,0.0,0.0,97.0,630.0
 flat,parsvnath green ville,sector 48,1.86,7654.0,2430.0,Super Built up area 2430(225.75 sq.m.),3.0,3.0,3+,6.0,North,Moderately Old,2430.0,,,0.0,1.0,0.0,0.0,0.0,1.0,94.0,810.0
-flat,alpha corp gurgaonone,sector 84,2.2,6407.0,3434.0,Super Built up area 3434(319.03 sq.m.),4.0,4.0,3+,15.0,South-West,Relatively New,3434.0,,,0.0,1.0,0.0,0.0,0.0,0.0,97.0,858.5
+flat,alpha corp Gurugramone,sector 84,2.2,6407.0,3434.0,Super Built up area 3434(319.03 sq.m.),4.0,4.0,3+,15.0,South-West,Relatively New,3434.0,,,0.0,1.0,0.0,0.0,0.0,0.0,97.0,858.5
 flat,hcbs sports ville,sohna road,0.32,4301.0,744.0,Built Up area: 743.99 (69.12 sq.m.),2.0,2.0,1,3.0,,Relatively New,,744.000768,,0.0,0.0,0.0,0.0,0.0,0.0,109.0,372.0
 house,independent,sector 43,8.49,31444.0,2700.0,Plot area 300(250.84 sq.m.),3.0,3.0,2,4.0,North,Relatively New,,2700.0,,0.0,1.0,0.0,1.0,0.0,1.0,21.0,900.0
 house,not applicable,sector 4,0.75,11719.0,640.0,Plot area 640(59.46 sq.m.),2.0,4.0,3,2.0,,Moderately Old,,640.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,320.0
@@ -3180,7 +3180,7 @@ house,dlf city plots phase 2,sector 25,10.75,29861.0,3600.0,Plot area 400(334.45
 flat,mvn athens,sohna road,0.21,4667.0,450.0,Carpet area: 450 (41.81 sq.m.),1.0,1.0,1,11.0,,New Property,,,450.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,450.0
 house,independent,sector 4,5.0,10101.0,4950.0,Plot area 550(459.87 sq.m.),3.0,3.0,2,1.0,North-East,Old Property,,4950.0,,0.0,0.0,0.0,0.0,0.0,0.0,22.0,1650.0
 flat,the lions cghs,sector 56,2.05,8542.0,2400.0,Carpet area: 2400 (222.97 sq.m.),4.0,4.0,3+,8.0,West,Moderately Old,,,2400.0,0.0,0.0,0.0,0.0,0.0,1.0,49.0,600.0
-flat,vatika gurgaon,sector 83,1.33,5565.0,2390.0,Super Built up area 2390(222.04 sq.m.)Carpet area: 2000 sq.ft. (185.81 sq.m.),4.0,4.0,3,3.0,East,Relatively New,2390.0,,2000.0,0.0,1.0,0.0,0.0,0.0,0.0,26.0,597.5
+flat,vatika Gurugram,sector 83,1.33,5565.0,2390.0,Super Built up area 2390(222.04 sq.m.)Carpet area: 2000 sq.ft. (185.81 sq.m.),4.0,4.0,3,3.0,East,Relatively New,2390.0,,2000.0,0.0,1.0,0.0,0.0,0.0,0.0,26.0,597.5
 house,independent,sector 2,2.95,15989.0,1845.0,Plot area 205(171.41 sq.m.),4.0,4.0,3+,2.0,North-West,Old Property,,1845.0,,0.0,0.0,0.0,0.0,0.0,0.0,27.0,461.25
 flat,ss the leaf,sector 85,1.85,7683.0,2408.0,Super Built up area 2408(223.71 sq.m.),3.0,4.0,3,2.0,North,Relatively New,2408.0,,,1.0,1.0,0.0,0.0,0.0,1.0,49.0,802.6666666666666
 flat,chd avenue,sector 71,0.95,7917.0,1200.0,Built Up area: 1200 (111.48 sq.m.),2.0,2.0,0,5.0,South,Undefined,,1200.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,600.0
@@ -3222,7 +3222,7 @@ flat,ats triumph,sector 104,2.65,8413.0,3150.0,Super Built up area 3150(292.64 s
 flat,ss the leaf,sector 85,1.1,12472.0,882.0,Super Built up area 1640(152.36 sq.m.)Built Up area: 1173 sq.ft. (108.98 sq.m.)Carpet area: 882 sq.ft. (81.94 sq.m.),2.0,2.0,3,12.0,North,Relatively New,1640.0,1173.0,882.0,1.0,0.0,0.0,0.0,0.0,0.0,75.0,441.0
 house,bptp visionnaire,sector 70a,4.02,7309.0,5500.0,Built Up area: 5500 (510.97 sq.m.),4.0,4.0,3+,3.0,North-East,Relatively New,,5500.0,,1.0,1.0,1.0,1.0,0.0,0.0,138.0,1375.0
 house,ansal florence super,sector 57,3.75,23148.0,1620.0,Plot area 180(150.5 sq.m.)Carpet area: 300 sq.yards (250.84 sq.m.),3.0,4.0,3,2.0,,Moderately Old,,,300.0,1.0,1.0,1.0,0.0,0.0,1.0,38.0,540.0
-flat,alpha corp gurgaonone,sector 84,0.85,6693.0,1270.0,Super Built up area 1270(117.99 sq.m.)Carpet area: 1050 sq.ft. (97.55 sq.m.),2.0,2.0,3,6.0,West,Relatively New,1270.0,,1050.0,0.0,0.0,0.0,0.0,0.0,1.0,28.0,635.0
+flat,alpha corp Gurugramone,sector 84,0.85,6693.0,1270.0,Super Built up area 1270(117.99 sq.m.)Carpet area: 1050 sq.ft. (97.55 sq.m.),2.0,2.0,3,6.0,West,Relatively New,1270.0,,1050.0,0.0,0.0,0.0,0.0,0.0,1.0,28.0,635.0
 house,independent,sector 6,0.5,8333.0,600.0,Plot area 600(55.74 sq.m.),3.0,3.0,2,2.0,East,Moderately Old,,600.0,,0.0,0.0,0.0,1.0,0.0,0.0,0.0,200.0
 flat,sare crescent parc royal greens phase 1,sector 92,0.79,6086.0,1298.0,Super Built up area 1298(120.59 sq.m.),3.0,2.0,2,15.0,,New Property,1298.0,,,0.0,0.0,0.0,0.0,0.0,0.0,25.0,432.6666666666667
 flat,godrej icon,sector 88a,1.75,14894.0,1175.0,Carpet area: 1175.11,3.0,3.0,3+,6.0,,New Property,,,1175.11,0.0,0.0,0.0,0.0,0.0,0.0,55.0,391.6666666666667
@@ -3309,7 +3309,7 @@ flat,paras dews,sector 106,1.2,11605.0,1034.0,Super Built up area 1665(154.68 sq
 flat,raheja atharva,sector 109,1.6,5319.0,3008.0,Built Up area: 3008 (279.45 sq.m.),4.0,1.0,0,0.0,,New Property,,3008.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,752.0
 flat,central park resorts,sector 48,15.0,22388.0,6700.0,Carpet area: 6700 (622.45 sq.m.),5.0,6.0,3+,17.0,,Relatively New,,,6700.0,1.0,1.0,0.0,1.0,0.0,2.0,45.0,1340.0
 flat,bestech park view residency,sector 2,1.02,7208.0,1415.0,Super Built up area 1415(131.46 sq.m.),2.0,2.0,3,11.0,South-West,Moderately Old,1415.0,,,0.0,0.0,0.0,0.0,0.0,0.0,92.0,707.5
-flat,emaar gurgaon greens,sector 102,1.55,9394.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,4.0,3,7.0,North,Relatively New,1650.0,,1022.58,0.0,1.0,0.0,0.0,0.0,1.0,152.0,550.0
+flat,emaar Gurugram greens,sector 102,1.55,9394.0,1650.0,Super Built up area 1650(153.29 sq.m.)Carpet area: 1022.58 sq.ft. (95 sq.m.),3.0,4.0,3,7.0,North,Relatively New,1650.0,,1022.58,0.0,1.0,0.0,0.0,0.0,1.0,152.0,550.0
 flat,ss the leaf,sector 85,1.25,7180.0,1741.0,Super Built up area 1741(161.74 sq.m.)Built Up area: 1730 sq.ft. (160.72 sq.m.)Carpet area: 1720 sq.ft. (159.79 sq.m.),2.0,2.0,3,10.0,South-East,Relatively New,1741.0,1730.0,1720.0,0.0,0.0,0.0,0.0,0.0,0.0,49.0,870.5
 flat,pareena mi casa,sector 68,1.7,8500.0,2000.0,Super Built up area 1999(185.71 sq.m.),4.0,4.0,3+,23.0,,New Property,1999.0,,,0.0,0.0,0.0,0.0,0.0,0.0,88.0,500.0
 flat,smart world gems,sector 89,0.9,8145.0,1105.0,Built Up area: 1105 (102.66 sq.m.),2.0,2.0,2,1.0,,Undefined,,1105.0,,0.0,0.0,0.0,0.0,0.0,0.0,45.0,552.5
@@ -3338,14 +3338,14 @@ flat,ild greens,sector 37,1.05,7500.0,1400.0,Super Built up area 1875(174.19 sq.
 flat,godrej oasis,sector 88a,1.38,6680.0,2066.0,Carpet area: 2066 (191.94 sq.m.),3.0,3.0,3+,7.0,North,Relatively New,,,2066.0,0.0,1.0,0.0,0.0,0.0,0.0,72.0,688.6666666666666
 flat,corona gracieux,sector 76,1.08,5510.0,1960.0,Super Built up area 1960(182.09 sq.m.),3.0,3.0,3,1.0,,New Property,1960.0,,,0.0,1.0,0.0,0.0,0.0,0.0,58.0,653.3333333333334
 flat,ss residency,sector 12,0.53,4818.0,1100.0,Super Built up area 1100(102.19 sq.m.),3.0,3.0,2,2.0,,Relatively New,1100.0,,,0.0,0.0,0.0,0.0,0.0,1.0,14.0,366.6666666666667
-flat,vatika gurgaon,sector 83,1.05,7000.0,1500.0,Super Built up area 1735(161.19 sq.m.)Carpet area: 1500 sq.ft. (139.35 sq.m.),3.0,3.0,3,3.0,South-West,Relatively New,1735.0,,1500.0,0.0,0.0,1.0,0.0,0.0,0.0,79.0,500.0
+flat,vatika Gurugram,sector 83,1.05,7000.0,1500.0,Super Built up area 1735(161.19 sq.m.)Carpet area: 1500 sq.ft. (139.35 sq.m.),3.0,3.0,3,3.0,South-West,Relatively New,1735.0,,1500.0,0.0,0.0,1.0,0.0,0.0,0.0,79.0,500.0
 flat,sare green parc 2,sector 92,1.07,5245.0,2040.0,Built Up area: 2040 (189.52 sq.m.),4.0,3.0,3,10.0,,Under Construction,,2040.0,,1.0,1.0,0.0,0.0,0.0,0.0,86.0,510.0
 flat,experion the heartsong,sector 108,1.2,6826.0,1758.0,Super Built up area 1758(163.32 sq.m.)Built Up area: 1550 sq.ft. (144 sq.m.)Carpet area: 1400 sq.ft. (130.06 sq.m.),3.0,2.0,3+,11.0,North-East,Relatively New,1758.0,1550.0,1400.0,0.0,1.0,0.0,1.0,0.0,1.0,174.0,586.0
 flat,dlf regal gardens,sector 90,1.29,7104.0,1816.0,Super Built up area 1818(168.9 sq.m.)Built Up area: 1817 sq.ft. (168.8 sq.m.)Carpet area: 1816 sq.ft. (168.71 sq.m.),3.0,3.0,3+,12.0,South-East,Relatively New,1818.0,1817.0,1816.0,0.0,1.0,0.0,0.0,0.0,0.0,152.0,605.3333333333334
 flat,capital residences 360,sector 70a,1.68,8502.0,1976.0,Super Built up area 1976(183.58 sq.m.)Built Up area: 1900 sq.ft. (176.52 sq.m.)Carpet area: 1560 sq.ft. (144.93 sq.m.),3.0,3.0,3+,5.0,North-East,New Property,1976.0,1900.0,1560.0,0.0,1.0,0.0,0.0,0.0,0.0,141.0,658.6666666666666
 flat,signature global synera,sector 81,0.31,7434.0,417.0,Super Built up area 417(38.74 sq.m.)Carpet area: 320 sq.ft. (29.73 sq.m.),1.0,1.0,1,13.0,North,Relatively New,417.0,,320.0,0.0,0.0,0.0,0.0,0.0,2.0,123.0,417.0
 flat,bestech park view grand spa,sector 81,2.22,8346.0,2660.0,Super Built up area 2660(247.12 sq.m.),3.0,4.0,3+,15.0,South-East,Relatively New,2660.0,,,0.0,1.0,0.0,0.0,0.0,1.0,174.0,886.6666666666666
-flat,vatika gurgaon,sector 83,1.18,6801.0,1735.0,Super Built up area 1735(161.19 sq.m.)Carpet area: 1500 sq.ft. (139.35 sq.m.),3.0,3.0,2,14.0,North,Relatively New,1735.0,,1500.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,578.3333333333334
+flat,vatika Gurugram,sector 83,1.18,6801.0,1735.0,Super Built up area 1735(161.19 sq.m.)Carpet area: 1500 sq.ft. (139.35 sq.m.),3.0,3.0,2,14.0,North,Relatively New,1735.0,,1500.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,578.3333333333334
 house,shri shyam residency,sector 104,0.62,12400.0,500.0,Plot area 500(46.45 sq.m.)Built Up area: 900 sq.ft. (83.61 sq.m.)Carpet area: 480 sq.ft. (44.59 sq.m.),3.0,3.0,1,2.0,,Moderately Old,,900.0,480.0,0.0,0.0,0.0,0.0,1.0,2.0,8.0,166.66666666666666
 flat,experion the heartsong,sector 108,1.2,6826.0,1758.0,Super Built up area 1758(163.32 sq.m.)Built Up area: 1275.53 sq.ft. (118.5 sq.m.)Carpet area: 974.68 sq.ft. (90.55 sq.m.),3.0,3.0,3+,10.0,South,Relatively New,1758.0,1275.53,974.68,1.0,0.0,0.0,0.0,0.0,0.0,93.0,586.0
 flat,gls arawali homes,sohna road,0.26,4514.0,576.0,Carpet area: 576 (53.51 sq.m.),2.0,2.0,2,4.0,,Relatively New,,,576.0,0.0,0.0,0.0,0.0,0.0,0.0,42.0,288.0
@@ -3521,7 +3521,7 @@ flat,brisk lumbini terrace homes,sector 109,1.38,6339.0,2177.0,Carpet area: 2177
 flat,imperia the esfera,sector 37,0.87,5513.0,1578.0,Super Built up area 1578(146.6 sq.m.),2.0,3.0,3+,9.0,North-East,New Property,1578.0,,,1.0,0.0,0.0,0.0,0.0,0.0,49.0,789.0
 flat,sidhartha ncr one,sector 95,0.57,4179.0,1364.0,Built Up area: 1364 (126.72 sq.m.)Carpet area: 1232 sq.ft. (114.46 sq.m.),2.0,2.0,2,10.0,,Undefined,,1364.0,1232.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,682.0
 flat,orris aster court premier,sector 85,1.38,6509.0,2120.0,Super Built up area 2120(196.95 sq.m.)Built Up area: 1616 sq.ft. (150.13 sq.m.),3.0,4.0,2,6.0,North-East,Relatively New,2120.0,1616.0,,0.0,1.0,0.0,0.0,0.0,0.0,76.0,706.6666666666666
-house,huda sector-56 gurgaon,sector 56,3.6,24845.0,1449.0,Plot area 161(134.62 sq.m.),5.0,5.0,3+,3.0,North-East,Moderately Old,,1449.0,,0.0,0.0,0.0,0.0,1.0,0.0,47.0,289.8
+house,huda sector-56 Gurugram,sector 56,3.6,24845.0,1449.0,Plot area 161(134.62 sq.m.),5.0,5.0,3+,3.0,North-East,Moderately Old,,1449.0,,0.0,0.0,0.0,0.0,1.0,0.0,47.0,289.8
 flat,corona gracieux,sector 76,1.05,5949.0,1765.0,Super Built up area 1765(163.97 sq.m.),3.0,3.0,3+,7.0,North-East,Relatively New,1765.0,,,0.0,0.0,0.0,0.0,0.0,1.0,133.0,588.3333333333334
 flat,signature global city 37d ph 2,sector 37d,1.1,8148.0,1350.0,Carpet area: 1350 (125.42 sq.m.),3.0,3.0,1,2.0,North,Under Construction,,,1350.0,0.0,0.0,0.0,1.0,0.0,0.0,30.0,450.0
 flat,indiabulls centrum park,sector 103,1.15,8679.0,1325.0,Super Built up area 1325(123.1 sq.m.)Carpet area: 865 sq.ft. (80.36 sq.m.),2.0,2.0,3,10.0,North-East,Relatively New,1325.0,,865.0,1.0,0.0,0.0,0.0,0.0,1.0,174.0,662.5
