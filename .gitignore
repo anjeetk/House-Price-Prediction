@@ -1,3 +1,10 @@
 __pycache__/
 .ipynb_checkpoints/
-data/interim
+data/interim/
+
+*.csv
+*.pkl
+*.txt
+
+!2. Data Preprocessing/flats.csv
+!2. Data Preprocessing/houses.csv

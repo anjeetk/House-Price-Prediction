@@ -1,0 +1,590 @@
+## Task: Analyze and Reconstruct the Complete ML Pipeline from Attached Notebooks
+
+I have attached multiple directories containing `.ipynb` notebooks. Each directory represents a stage of a machine-learning/data-science pipeline and is prefixed with a number indicating its intended execution order, for example:
+
+1. Data Gathering
+2. Data Preprocessing
+3. Exploratory Data Analysis
+4. Feature Engineering
+5. Feature Selection
+6. Model Development
+7. Model Evaluation
+8. etc.
+
+### 1. Analyze the Notebooks in Sequential Order
+
+First, inspect **all attached directories and `.ipynb` files**.
+
+Process them strictly according to the numerical prefix in their directory/file names, i.e.:
+
+`1 → 2 → 3 → 4 → ...`
+
+Within each stage:
+
+* Identify every notebook.
+* Understand the purpose of each notebook.
+* Extract and summarize the important code, transformations, algorithms, assumptions, and outputs.
+* Identify dependencies between notebooks.
+* Determine which notebook produces data/features/models consumed by subsequent notebooks.
+* Identify duplicated, redundant, conflicting, or obsolete steps.
+* Do not assume that the intended directory name accurately represents what the notebook actually does; infer the actual functionality from the notebook contents.
+
+Create a **stage-by-stage reconstruction** of what the existing implementation currently does.
+
+---
+
+### 2. Reconstruct the Existing End-to-End Pipeline
+
+After analyzing all notebooks, reconstruct the complete pipeline from raw data to final prediction.
+
+Show the pipeline in a clear sequential form, such as:
+
+`Raw Data → Data Ingestion → Data Validation → Cleaning → EDA → Missing-Value Handling → Feature Engineering → Feature Selection → Train/Validation/Test Split → Preprocessing → Model Training → Hyperparameter Optimization → Evaluation → Final Model → Prediction`
+
+Modify this pipeline according to what is actually implemented in the attached notebooks.
+
+For every stage, explain:
+
+* Input
+* Processing performed
+* Output
+* Algorithms/statistical methods used
+* Important parameters
+* Data dependencies
+* Potential risks or leakage
+* Whether the implementation is appropriate
+
+---
+
+### 3. Design the Recommended/Refined Pipeline
+
+After describing the **existing pipeline**, design a **refined production-quality pipeline** based on the notebook analysis.
+
+Clearly distinguish between:
+
+**A. Current implementation**
+What the attached notebooks currently do.
+
+**B. Recommended implementation**
+What should be changed, added, removed, or reorganized.
+
+Do not blindly preserve existing methodology. Critically evaluate it and recommend better approaches where appropriate.
+
+---
+
+## 4. Data Gathering and Data Quality Strategy
+
+Analyze and recommend:
+
+* Data sources
+* Data ingestion process
+* Data schema
+* Target variable
+* Feature types
+* Data validation
+* Duplicate handling
+* Outlier handling
+* Invalid-value handling
+* Data consistency checks
+* Data drift considerations
+* Train/test contamination risks
+
+Explain which data-quality checks should occur **before** and **after** preprocessing.
+
+---
+
+## 5. Data Preprocessing Strategy
+
+Provide a detailed preprocessing strategy covering:
+
+* Numerical features
+* Categorical features
+* Ordinal features
+* Binary features
+* Date/time features
+* Text features, if applicable
+* Scaling/normalization
+* Encoding
+* Transformation/skew correction
+* Outlier treatment
+* Duplicate removal
+* Constant/near-constant features
+* High-cardinality features
+
+For every preprocessing step, explain:
+
+1. Why it is required
+2. Which method should be used
+3. When it should be applied
+4. Whether it must be fitted only on the training set
+5. How to prevent data leakage
+
+---
+
+## 6. Missing-Value / Imputation Strategy
+
+Analyze the existing imputation approach and propose the best strategy.
+
+For each feature/type of missingness, determine whether to use:
+
+* Mean imputation
+* Median imputation
+* Mode imputation
+* Constant-value imputation
+* KNN imputation
+* Iterative/MICE imputation
+* Model-based imputation
+* Missingness indicators
+* Forward/backward filling for time-series data
+* Dropping rows/columns
+* A domain-specific approach
+
+Discuss:
+
+* MCAR, MAR, and MNAR assumptions
+* Missingness percentage
+* Missingness patterns
+* Whether missingness itself contains predictive information
+* Potential data leakage caused by imputation
+* Whether imputation should be performed before or after train/test splitting
+
+Provide a **feature-wise or feature-group-wise imputation strategy** wherever possible.
+
+---
+
+## 7. Exploratory Data Analysis
+
+Evaluate the EDA performed in the notebooks.
+
+Determine whether the analysis adequately covers:
+
+* Univariate distributions
+* Target distribution
+* Feature-target relationships
+* Correlation
+* Multicollinearity
+* Outliers
+* Class imbalance
+* Missingness patterns
+* Feature distributions across train/test
+* Temporal patterns, if relevant
+* Potential leakage
+
+Identify important EDA findings that should influence preprocessing, feature engineering, and model selection.
+
+---
+
+## 8. Feature Engineering Strategy
+
+Analyze all existing feature engineering.
+
+For each engineered feature:
+
+* Explain how it is generated.
+* Explain why it may be useful.
+* Determine whether it introduces leakage.
+* Determine whether it is redundant.
+* Determine whether it should be retained.
+
+Then propose additional feature-engineering opportunities based on the characteristics of the dataset.
+
+Group the recommendations into:
+
+* Numerical transformations
+* Interaction features
+* Aggregation features
+* Ratio features
+* Temporal features
+* Categorical features
+* Domain-specific features
+* Dimensionality-reduction features, if appropriate
+
+---
+
+## 9. Feature Selection Strategy
+
+Provide a rigorous feature-selection strategy.
+
+Evaluate the existing feature-selection methodology and compare appropriate techniques such as:
+
+### Filter methods
+
+* Correlation
+* Mutual information
+* ANOVA
+* Chi-square
+* Variance threshold
+
+### Wrapper methods
+
+* RFE
+* RFECV
+* Sequential feature selection
+
+### Embedded methods
+
+* L1/Lasso
+* Elastic Net
+* Tree-based feature importance
+* Gradient boosting importance
+
+### Model-specific/advanced methods
+
+* SHAP-based analysis
+* Permutation importance
+* Stability selection
+
+Explain:
+
+* Which method should be used
+* At which stage it should be applied
+* How to avoid leakage
+* Whether selection should occur inside cross-validation
+* How many features should ultimately be retained
+* How feature stability should be evaluated
+
+Do not recommend feature selection merely because it is common; justify it based on the dataset and modeling problem.
+
+---
+
+## 10. Model Selection Strategy
+
+Analyze every model currently implemented in the notebooks.
+
+For each model, provide:
+
+* Model name
+* Why it was selected
+* Strengths
+* Weaknesses
+* Assumptions
+* Current performance
+* Computational cost
+* Interpretability
+* Overfitting risk
+* Suitability for this dataset
+
+Then create a **model-selection framework**.
+
+Consider appropriate candidates such as:
+
+* Baseline statistical model
+* Linear models
+* Regularized linear models
+* Decision trees
+* Random Forest
+* Gradient Boosting
+* XGBoost
+* LightGBM
+* CatBoost
+* SVM
+* KNN
+* Neural networks
+
+Only recommend models that are appropriate for the actual problem and dataset.
+
+Establish a clear baseline before comparing complex models.
+
+---
+
+## 11. Train/Validation/Test Strategy
+
+Critically evaluate the current data-splitting strategy.
+
+Determine whether the problem requires:
+
+* Random train/test split
+* Stratified split
+* Grouped split
+* Time-based split
+* Nested cross-validation
+* K-fold cross-validation
+* Repeated cross-validation
+
+Explain exactly how the dataset should be divided.
+
+Pay particular attention to:
+
+* Data leakage
+* Class imbalance
+* Temporal leakage
+* Group leakage
+* Duplicate observations across splits
+* Preprocessing leakage
+
+---
+
+## 12. Hyperparameter Optimization
+
+Analyze the existing hyperparameter-tuning strategy.
+
+Recommend an appropriate approach:
+
+* Grid Search
+* Random Search
+* Bayesian Optimization
+* Optuna
+* Successive Halving
+* Early stopping
+
+Specify:
+
+* Which parameters should be optimized
+* Search strategy
+* Cross-validation strategy
+* Optimization metric
+* Computational considerations
+
+---
+
+## 13. Evaluation Strategy
+
+Determine the correct evaluation metrics based on the actual ML task.
+
+For classification, consider:
+
+* Accuracy
+* Precision
+* Recall
+* F1
+* ROC-AUC
+* PR-AUC
+* Log Loss
+* Confusion Matrix
+* Calibration
+
+For regression, consider:
+
+* MAE
+* MSE
+* RMSE
+* R²
+* MAPE/SMAPE where appropriate
+
+Do not use metrics simply because they appear in the notebooks. Explain which metric should be the **primary optimization metric and why**.
+
+Also evaluate:
+
+* Generalization
+* Overfitting
+* Underfitting
+* Threshold selection
+* Calibration
+* Error analysis
+* Subgroup performance
+* Model stability
+
+---
+
+## 14. Explainability and Interpretability
+
+Recommend an appropriate explainability strategy.
+
+Consider:
+
+* Global feature importance
+* Permutation importance
+* SHAP
+* Partial Dependence
+* Individual prediction explanations
+* Error analysis
+
+Explain how interpretability should be incorporated without introducing leakage or misleading conclusions.
+
+---
+
+## 15. Model Comparison
+
+Create a structured comparison table containing, where available:
+
+| Model | CV Performance | Validation Performance | Test Performance | Overfitting | Training Cost | Interpretability | Recommendation |
+| ----- | -------------: | ---------------------: | ---------------: | ----------- | ------------- | ---------------- | -------------- |
+
+Clearly identify:
+
+* Best-performing model
+* Best interpretable model
+* Best computationally efficient model
+* Best production candidate
+* Whether the performance difference between models is statistically/practically meaningful
+
+---
+
+## 16. Architecture
+
+Design the recommended architecture for the complete system.
+
+Provide both:
+
+### Logical architecture
+
+`Data Sources → Ingestion → Validation → Data Processing → Feature Engineering → Feature Selection → Model Training → Model Registry → Prediction → Monitoring`
+
+### ML experimentation architecture
+
+Include:
+
+* Dataset/version management
+* Reproducibility
+* Configuration management
+* Experiment tracking
+* Cross-validation
+* Hyperparameter optimization
+* Model artifact storage
+* Model selection
+* Evaluation reports
+
+If appropriate, recommend tools/frameworks such as MLflow, DVC, Optuna, scikit-learn Pipelines, ColumnTransformer, etc., but only where justified.
+
+---
+
+## 17. Production Pipeline
+
+Design a production-ready pipeline that ensures the exact same preprocessing and feature-engineering transformations are applied during training and inference.
+
+Address:
+
+* Training pipeline
+* Inference pipeline
+* Serialization
+* Feature consistency
+* Model versioning
+* Data validation
+* Monitoring
+* Data drift
+* Concept drift
+* Performance monitoring
+* Retraining strategy
+
+---
+
+## 18. Identify Problems in the Existing Notebooks
+
+Create a dedicated section called:
+
+### Critical Issues and Risks
+
+Identify:
+
+* Data leakage
+* Incorrect train/test splitting
+* Incorrect imputation
+* Incorrect scaling
+* Incorrect encoding
+* Target leakage
+* Feature-selection leakage
+* Overfitting
+* Invalid evaluation
+* Redundant preprocessing
+* Inconsistent transformations
+* Notebook execution-order problems
+* Hard-coded paths/values
+* Reproducibility issues
+* Duplicated code
+* Unused code
+* Deprecated methods
+* Incorrect statistical assumptions
+* Any methodological concerns
+
+Rank each issue as:
+
+**Critical / High / Medium / Low**
+
+and explain how to fix it.
+
+---
+
+## 19. Final Recommended Pipeline
+
+At the end, provide one consolidated pipeline representing the **recommended final architecture**.
+
+Use a format similar to:
+
+```text
+Raw Data
+   ↓
+Data Ingestion
+   ↓
+Data Validation
+   ↓
+Train/Validation/Test Split
+   ↓
+Missing-Value Analysis
+   ↓
+Imputation
+   ↓
+Outlier Handling
+   ↓
+Encoding
+   ↓
+Scaling / Transformation
+   ↓
+Feature Engineering
+   ↓
+Feature Selection
+   ↓
+Cross-Validation
+   ↓
+Baseline Models
+   ↓
+Candidate Models
+   ↓
+Hyperparameter Optimization
+   ↓
+Model Evaluation
+   ↓
+Model Explainability
+   ↓
+Final Model Selection
+   ↓
+Model Serialization / Registry
+   ↓
+Inference Pipeline
+   ↓
+Monitoring & Retraining
+```
+
+Modify this structure based on the actual dataset and notebooks.
+
+---
+
+## 20. Final Deliverables
+
+Your final response should contain:
+
+1. **Executive Summary**
+2. **Notebook/Directory Inventory**
+3. **Execution Order**
+4. **Current Pipeline Reconstruction**
+5. **Data Flow**
+6. **Data Quality Strategy**
+7. **Preprocessing Strategy**
+8. **Imputation Strategy**
+9. **EDA Findings**
+10. **Feature Engineering Strategy**
+11. **Feature Selection Strategy**
+12. **Train/Validation/Test Strategy**
+13. **Model Selection Strategy**
+14. **Hyperparameter Optimization Strategy**
+15. **Evaluation Strategy**
+16. **Explainability Strategy**
+17. **Current vs Recommended Pipeline**
+18. **Architecture Diagram/Description**
+19. **Critical Issues and Risks**
+20. **Recommended Final Pipeline**
+21. **Implementation Roadmap**
+22. **Prioritized List of Changes**
+
+### Important Instructions
+
+* **Actually inspect the contents of the `.ipynb` files. Do not infer the pipeline solely from directory names.**
+* Preserve important technical details from the notebooks.
+* Distinguish clearly between **what is currently implemented** and **what you recommend**.
+* Do not assume that an existing methodology is correct.
+* Look specifically for **data leakage and invalid evaluation procedures**.
+* When recommending a methodology, explain **why it is appropriate for this dataset/problem**.
+* Where information is missing from the notebooks, explicitly state that it is unknown rather than inventing it.
+* If multiple approaches are possible, compare them and select a recommended approach.
+* Use tables wherever they improve clarity.
+* Provide enough technical detail that the analysis can be directly converted into a clean, reproducible ML project.
+* The final recommendation should prioritize **correctness, reproducibility, generalization, maintainability, and production readiness**, not merely the highest training score.
